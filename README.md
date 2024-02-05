@@ -5,5 +5,5 @@ https://public.tableau.com/app/profile/michael.m1522/viz/IS362Week1/Sheet3?publi
 
 # Week 2
 
-Understanding challenges in Python data structures, zip and comprehensions using Python Jupyter Notebook. 
+Understanding challenges in Python data structures, zip and comprehensions using Python Jupyter Notebook. See Week2.ipynb
 
