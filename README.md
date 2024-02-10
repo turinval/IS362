@@ -7,3 +7,6 @@ https://public.tableau.com/app/profile/michael.m1522/viz/IS362Week1/Sheet3?publi
 
 Understanding challenges in Python data structures, zip and comprehensions using Python Jupyter Notebook. See Week2.ipynb
 
+# Week 3 
+
+Summarize the bike ride from NY to Florida, by miles per day, using Numpy and Pandas
