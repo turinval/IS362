@@ -1,0 +1,1001 @@
+carrier,name,Date,Origin,name,Destination,name,"Arrival Delay"
+UA,"United Air Lines Inc.",2013-01-01,EWR,"Newark Liberty Intl",IAH,"George Bush Intercontinental",11
+UA,"United Air Lines Inc.",2013-01-01,LGA,"La Guardia",IAH,"George Bush Intercontinental",20
+AA,"American Airlines Inc.",2013-01-01,JFK,"John F Kennedy Intl",MIA,"Miami Intl",33
+B6,"JetBlue Airways",2013-01-01,JFK,"John F Kennedy Intl",BQN,NULL,-18
+DL,"Delta Air Lines Inc.",2013-01-01,LGA,"La Guardia",ATL,"Hartsfield Jackson Atlanta Intl",-25
+UA,"United Air Lines Inc.",2013-01-01,EWR,"Newark Liberty Intl",ORD,"Chicago Ohare Intl",12
+B6,"JetBlue Airways",2013-01-01,EWR,"Newark Liberty Intl",FLL,"Fort Lauderdale Hollywood Intl",19
+EV,"ExpressJet Airlines Inc.",2013-01-01,LGA,"La Guardia",IAD,"Washington Dulles Intl",-14
+B6,"JetBlue Airways",2013-01-01,JFK,"John F Kennedy Intl",MCO,"Orlando Intl",-8
+AA,"American Airlines Inc.",2013-01-01,LGA,"La Guardia",ORD,"Chicago Ohare Intl",8
+B6,"JetBlue Airways",2013-01-01,JFK,"John F Kennedy Intl",PBI,"Palm Beach Intl",-2
+B6,"JetBlue Airways",2013-01-01,JFK,"John F Kennedy Intl",TPA,"Tampa Intl",-3
+UA,"United Air Lines Inc.",2013-01-01,JFK,"John F Kennedy Intl",LAX,"Los Angeles Intl",7
+UA,"United Air Lines Inc.",2013-01-01,EWR,"Newark Liberty Intl",SFO,"San Francisco Intl",-14
+AA,"American Airlines Inc.",2013-01-01,LGA,"La Guardia",DFW,"Dallas Fort Worth Intl",31
+B6,"JetBlue Airways",2013-01-01,JFK,"John F Kennedy Intl",BOS,"General Edward Lawrence Logan Intl",-4
+UA,"United Air Lines Inc.",2013-01-01,EWR,"Newark Liberty Intl",LAS,"Mc Carran Intl",-8
+B6,"JetBlue Airways",2013-01-01,LGA,"La Guardia",FLL,"Fort Lauderdale Hollywood Intl",-7
+MQ,"Envoy Air",2013-01-01,LGA,"La Guardia",ATL,"Hartsfield Jackson Atlanta Intl",12
+B6,"JetBlue Airways",2013-01-01,EWR,"Newark Liberty Intl",PBI,"Palm Beach Intl",-6
+DL,"Delta Air Lines Inc.",2013-01-01,LGA,"La Guardia",MSP,"Minneapolis St Paul Intl",-8
+MQ,"Envoy Air",2013-01-01,LGA,"La Guardia",DTW,"Detroit Metro Wayne Co",16
+AA,"American Airlines Inc.",2013-01-01,EWR,"Newark Liberty Intl",MIA,"Miami Intl",-12
+DL,"Delta Air Lines Inc.",2013-01-01,JFK,"John F Kennedy Intl",ATL,"Hartsfield Jackson Atlanta Intl",-8
+UA,"United Air Lines Inc.",2013-01-01,EWR,"Newark Liberty Intl",MIA,"Miami Intl",-17
+MQ,"Envoy Air",2013-01-01,EWR,"Newark Liberty Intl",ORD,"Chicago Ohare Intl",32
+UA,"United Air Lines Inc.",2013-01-01,JFK,"John F Kennedy Intl",SFO,"San Francisco Intl",14
+B6,"JetBlue Airways",2013-01-01,JFK,"John F Kennedy Intl",RSW,"Southwest Florida Intl",4
+B6,"JetBlue Airways",2013-01-01,JFK,"John F Kennedy Intl",SJU,NULL,-21
+DL,"Delta Air Lines Inc.",2013-01-01,EWR,"Newark Liberty Intl",ATL,"Hartsfield Jackson Atlanta Intl",-9
+US,"US Airways Inc.",2013-01-01,EWR,"Newark Liberty Intl",PHX,"Phoenix Sky Harbor Intl",3
+AA,"American Airlines Inc.",2013-01-01,LGA,"La Guardia",MIA,"Miami Intl",5
+UA,"United Air Lines Inc.",2013-01-01,LGA,"La Guardia",IAH,"George Bush Intercontinental",1
+EV,"ExpressJet Airlines Inc.",2013-01-01,EWR,"Newark Liberty Intl",MSP,"Minneapolis St Paul Intl",29
+MQ,"Envoy Air",2013-01-01,LGA,"La Guardia",MSP,"Minneapolis St Paul Intl",10
+US,"US Airways Inc.",2013-01-01,JFK,"John F Kennedy Intl",PHX,"Phoenix Sky Harbor Intl",0
+AA,"American Airlines Inc.",2013-01-01,JFK,"John F Kennedy Intl",SJU,NULL,-3
+UA,"United Air Lines Inc.",2013-01-01,EWR,"Newark Liberty Intl",LAX,"Los Angeles Intl",29
+AA,"American Airlines Inc.",2013-01-01,LGA,"La Guardia",ORD,"Chicago Ohare Intl",14
+WN,"Southwest Airlines Co.",2013-01-01,LGA,"La Guardia",BWI,"Baltimore Washington Intl",-19
+US,"US Airways Inc.",2013-01-01,EWR,"Newark Liberty Intl",CLT,"Charlotte Douglas Intl",-9
+EV,"ExpressJet Airlines Inc.",2013-01-01,EWR,"Newark Liberty Intl",IAD,"Washington Dulles Intl",12
+AA,"American Airlines Inc.",2013-01-01,LGA,"La Guardia",DFW,"Dallas Fort Worth Intl",48
+B6,"JetBlue Airways",2013-01-01,LGA,"La Guardia",MCO,"Orlando Intl",-5
+B6,"JetBlue Airways",2013-01-01,JFK,"John F Kennedy Intl",BOS,"General Edward Lawrence Logan Intl",-10
+UA,"United Air Lines Inc.",2013-01-01,EWR,"Newark Liberty Intl",PBI,"Palm Beach Intl",-18
+US,"US Airways Inc.",2013-01-01,EWR,"Newark Liberty Intl",CLT,"Charlotte Douglas Intl",-11
+UA,"United Air Lines Inc.",2013-01-01,EWR,"Newark Liberty Intl",FLL,"Fort Lauderdale Hollywood Intl",-9
+B6,"JetBlue Airways",2013-01-01,JFK,"John F Kennedy Intl",BUF,"Buffalo Niagara Intl",5
+UA,"United Air Lines Inc.",2013-01-01,LGA,"La Guardia",DEN,"Denver Intl",-6
+UA,"United Air Lines Inc.",2013-01-01,EWR,"Newark Liberty Intl",SNA,"John Wayne Arpt Orange Co",-7
+B6,"JetBlue Airways",2013-01-01,JFK,"John F Kennedy Intl",LAS,"Mc Carran Intl",-6
+B6,"JetBlue Airways",2013-01-01,JFK,"John F Kennedy Intl",MSY,"Louis Armstrong New Orleans Intl",11
+DL,"Delta Air Lines Inc.",2013-01-01,LGA,"La Guardia",PBI,"Palm Beach Intl",-33
+DL,"Delta Air Lines Inc.",2013-01-01,JFK,"John F Kennedy Intl",SLC,"Salt Lake City Intl",-9
+DL,"Delta Air Lines Inc.",2013-01-01,JFK,"John F Kennedy Intl",SFO,"San Francisco Intl",-8
+DL,"Delta Air Lines Inc.",2013-01-01,LGA,"La Guardia",MIA,"Miami Intl",-18
+AA,"American Airlines Inc.",2013-01-01,LGA,"La Guardia",ORD,"Chicago Ohare Intl",4
+AA,"American Airlines Inc.",2013-01-01,JFK,"John F Kennedy Intl",MCO,"Orlando Intl",-10
+MQ,"Envoy Air",2013-01-01,LGA,"La Guardia",XNA,"NW Arkansas Regional",27
+UA,"United Air Lines Inc.",2013-01-01,EWR,"Newark Liberty Intl",TPA,"Tampa Intl",-23
+DL,"Delta Air Lines Inc.",2013-01-01,LGA,"La Guardia",FLL,"Fort Lauderdale Hollywood Intl",-14
+DL,"Delta Air Lines Inc.",2013-01-01,LGA,"La Guardia",ATL,"Hartsfield Jackson Atlanta Intl",5
+VX,"Virgin America",2013-01-01,JFK,"John F Kennedy Intl",LAX,"Los Angeles Intl",2
+AA,"American Airlines Inc.",2013-01-01,LGA,"La Guardia",MIA,"Miami Intl",-7
+B6,"JetBlue Airways",2013-01-01,JFK,"John F Kennedy Intl",FLL,"Fort Lauderdale Hollywood Intl",1
+DL,"Delta Air Lines Inc.",2013-01-01,LGA,"La Guardia",DTW,"Detroit Metro Wayne Co",-6
+UA,"United Air Lines Inc.",2013-01-01,EWR,"Newark Liberty Intl",RSW,"Southwest Florida Intl",-9
+UA,"United Air Lines Inc.",2013-01-01,EWR,"Newark Liberty Intl",SJU,NULL,-31
+B6,"JetBlue Airways",2013-01-01,JFK,"John F Kennedy Intl",LAX,"Los Angeles Intl",44
+UA,"United Air Lines Inc.",2013-01-01,LGA,"La Guardia",ORD,"Chicago Ohare Intl",20
+B6,"JetBlue Airways",2013-01-01,JFK,"John F Kennedy Intl",SJU,NULL,-15
+AA,"American Airlines Inc.",2013-01-01,JFK,"John F Kennedy Intl",FLL,"Fort Lauderdale Hollywood Intl",-12
+UA,"United Air Lines Inc.",2013-01-01,EWR,"Newark Liberty Intl",ORD,"Chicago Ohare Intl",21
+FL,"AirTran Airways Corporation",2013-01-01,LGA,"La Guardia",MKE,"General Mitchell Intl",10
+B6,"JetBlue Airways",2013-01-01,JFK,"John F Kennedy Intl",MCO,"Orlando Intl",5
+UA,"United Air Lines Inc.",2013-01-01,EWR,"Newark Liberty Intl",PBI,"Palm Beach Intl",-4
+AA,"American Airlines Inc.",2013-01-01,LGA,"La Guardia",DFW,"Dallas Fort Worth Intl",31
+AS,"Alaska Airlines Inc.",2013-01-01,EWR,"Newark Liberty Intl",SEA,"Seattle Tacoma Intl",-10
+AA,"American Airlines Inc.",2013-01-01,EWR,"Newark Liberty Intl",DFW,"Dallas Fort Worth Intl",12
+UA,"United Air Lines Inc.",2013-01-01,EWR,"Newark Liberty Intl",DEN,"Denver Intl",7
+UA,"United Air Lines Inc.",2013-01-01,LGA,"La Guardia",IAH,"George Bush Intercontinental",3
+VX,"Virgin America",2013-01-01,JFK,"John F Kennedy Intl",SFO,"San Francisco Intl",-26
+B6,"JetBlue Airways",2013-01-01,JFK,"John F Kennedy Intl",ROC,"Greater Rochester Intl",-1
+B6,"JetBlue Airways",2013-01-01,LGA,"La Guardia",RSW,"Southwest Florida Intl",2
+UA,"United Air Lines Inc.",2013-01-01,EWR,"Newark Liberty Intl",MCO,"Orlando Intl",30
+B6,"JetBlue Airways",2013-01-01,JFK,"John F Kennedy Intl",SYR,"Syracuse Hancock Intl",4
+B6,"JetBlue Airways",2013-01-01,JFK,"John F Kennedy Intl",SFO,"San Francisco Intl",-26
+AA,"American Airlines Inc.",2013-01-01,LGA,"La Guardia",ORD,"Chicago Ohare Intl",-12
+UA,"United Air Lines Inc.",2013-01-01,EWR,"Newark Liberty Intl",IAH,"George Bush Intercontinental",26
+B6,"JetBlue Airways",2013-01-01,LGA,"La Guardia",TPA,"Tampa Intl",2
+AA,"American Airlines Inc.",2013-01-01,JFK,"John F Kennedy Intl",LAX,"Los Angeles Intl",7
+B6,"JetBlue Airways",2013-01-01,JFK,"John F Kennedy Intl",SRQ,"Sarasota Bradenton Intl",-11
+DL,"Delta Air Lines Inc.",2013-01-01,JFK,"John F Kennedy Intl",SEA,"Seattle Tacoma Intl",3
+AA,"American Airlines Inc.",2013-01-01,JFK,"John F Kennedy Intl",SFO,"San Francisco Intl",10
+UA,"United Air Lines Inc.",2013-01-01,EWR,"Newark Liberty Intl",SFO,"San Francisco Intl",-10
+MQ,"Envoy Air",2013-01-01,EWR,"Newark Liberty Intl",ORD,"Chicago Ohare Intl",49
+DL,"Delta Air Lines Inc.",2013-01-01,LGA,"La Guardia",MCO,"Orlando Intl",-18
+UA,"United Air Lines Inc.",2013-01-01,LGA,"La Guardia",DEN,"Denver Intl",-4
+US,"US Airways Inc.",2013-01-01,LGA,"La Guardia",CLT,"Charlotte Douglas Intl",-4
+AA,"American Airlines Inc.",2013-01-01,LGA,"La Guardia",MIA,"Miami Intl",-14
+DL,"Delta Air Lines Inc.",2013-01-01,LGA,"La Guardia",ATL,"Hartsfield Jackson Atlanta Intl",-2
+WN,"Southwest Airlines Co.",2013-01-01,LGA,"La Guardia",DEN,"Denver Intl",33
+B6,"JetBlue Airways",2013-01-01,EWR,"Newark Liberty Intl",MCO,"Orlando Intl",-1
+DL,"Delta Air Lines Inc.",2013-01-01,JFK,"John F Kennedy Intl",MIA,"Miami Intl",-30
+DL,"Delta Air Lines Inc.",2013-01-01,LGA,"La Guardia",MSP,"Minneapolis St Paul Intl",8
+MQ,"Envoy Air",2013-01-01,JFK,"John F Kennedy Intl",RDU,"Raleigh Durham Intl",-6
+B6,"JetBlue Airways",2013-01-01,EWR,"Newark Liberty Intl",BOS,"General Edward Lawrence Logan Intl",-19
+AA,"American Airlines Inc.",2013-01-01,JFK,"John F Kennedy Intl",BOS,"General Edward Lawrence Logan Intl",-22
+UA,"United Air Lines Inc.",2013-01-01,JFK,"John F Kennedy Intl",SFO,"San Francisco Intl",-12
+DL,"Delta Air Lines Inc.",2013-01-01,JFK,"John F Kennedy Intl",MCO,"Orlando Intl",-13
+B6,"JetBlue Airways",2013-01-01,JFK,"John F Kennedy Intl",CLT,"Charlotte Douglas Intl",10
+B6,"JetBlue Airways",2013-01-01,JFK,"John F Kennedy Intl",FLL,"Fort Lauderdale Hollywood Intl",12
+MQ,"Envoy Air",2013-01-01,LGA,"La Guardia",CMH,"Port Columbus Intl",-4
+DL,"Delta Air Lines Inc.",2013-01-01,JFK,"John F Kennedy Intl",ATL,"Hartsfield Jackson Atlanta Intl",0
+EV,"ExpressJet Airlines Inc.",2013-01-01,EWR,"Newark Liberty Intl",JAX,"Jacksonville Intl",-7
+9E,"Endeavor Air Inc.",2013-01-01,JFK,"John F Kennedy Intl",MSP,"Minneapolis St Paul Intl",11
+DL,"Delta Air Lines Inc.",2013-01-01,LGA,"La Guardia",PBI,"Palm Beach Intl",-28
+EV,"ExpressJet Airlines Inc.",2013-01-01,EWR,"Newark Liberty Intl",CHS,"Charleston Afb Intl",-26
+MQ,"Envoy Air",2013-01-01,LGA,"La Guardia",CLT,"Charlotte Douglas Intl",137
+US,"US Airways Inc.",2013-01-01,EWR,"Newark Liberty Intl",CLT,"Charlotte Douglas Intl",10
+EV,"ExpressJet Airlines Inc.",2013-01-01,EWR,"Newark Liberty Intl",MEM,"Memphis Intl",23
+DL,"Delta Air Lines Inc.",2013-01-01,LGA,"La Guardia",DEN,"Denver Intl",7
+FL,"AirTran Airways Corporation",2013-01-01,LGA,"La Guardia",ATL,"Hartsfield Jackson Atlanta Intl",17
+B6,"JetBlue Airways",2013-01-01,JFK,"John F Kennedy Intl",PIT,"Pittsburgh Intl",17
+B6,"JetBlue Airways",2013-01-01,JFK,"John F Kennedy Intl",SJU,NULL,-16
+DL,"Delta Air Lines Inc.",2013-01-01,JFK,"John F Kennedy Intl",BOS,"General Edward Lawrence Logan Intl",-14
+DL,"Delta Air Lines Inc.",2013-01-01,JFK,"John F Kennedy Intl",SJU,NULL,-40
+B6,"JetBlue Airways",2013-01-01,JFK,"John F Kennedy Intl",SAN,"San Diego Intl",24
+MQ,"Envoy Air",2013-01-01,JFK,"John F Kennedy Intl",DCA,"Ronald Reagan Washington Natl",-13
+EV,"ExpressJet Airlines Inc.",2013-01-01,LGA,"La Guardia",CLE,"Cleveland Hopkins Intl",-2
+US,"US Airways Inc.",2013-01-01,JFK,"John F Kennedy Intl",CLT,"Charlotte Douglas Intl",-5
+UA,"United Air Lines Inc.",2013-01-01,EWR,"Newark Liberty Intl",DFW,"Dallas Fort Worth Intl",16
+AA,"American Airlines Inc.",2013-01-01,LGA,"La Guardia",STL,"Lambert St Louis Intl",2
+B6,"JetBlue Airways",2013-01-01,JFK,"John F Kennedy Intl",JAX,"Jacksonville Intl",-7
+AA,"American Airlines Inc.",2013-01-01,JFK,"John F Kennedy Intl",MIA,"Miami Intl",51
+UA,"United Air Lines Inc.",2013-01-01,EWR,"Newark Liberty Intl",SFO,"San Francisco Intl",-13
+B6,"JetBlue Airways",2013-01-01,JFK,"John F Kennedy Intl",ORD,"Chicago Ohare Intl",15
+UA,"United Air Lines Inc.",2013-01-01,EWR,"Newark Liberty Intl",LAX,"Los Angeles Intl",7
+UA,"United Air Lines Inc.",2013-01-01,JFK,"John F Kennedy Intl",LAX,"Los Angeles Intl",-8
+UA,"United Air Lines Inc.",2013-01-01,EWR,"Newark Liberty Intl",MCO,"Orlando Intl",-23
+AA,"American Airlines Inc.",2013-01-01,LGA,"La Guardia",ORD,"Chicago Ohare Intl",3
+MQ,"Envoy Air",2013-01-01,LGA,"La Guardia",ATL,"Hartsfield Jackson Atlanta Intl",-13
+EV,"ExpressJet Airlines Inc.",2013-01-01,EWR,"Newark Liberty Intl",MYR,"Myrtle Beach Intl",-18
+MQ,"Envoy Air",2013-01-01,LGA,"La Guardia",RDU,"Raleigh Durham Intl",-24
+F9,"Frontier Airlines Inc.",2013-01-01,LGA,"La Guardia",DEN,"Denver Intl",32
+AA,"American Airlines Inc.",2013-01-01,LGA,"La Guardia",DFW,"Dallas Fort Worth Intl",20
+MQ,"Envoy Air",2013-01-01,LGA,"La Guardia",CLE,"Cleveland Hopkins Intl",-8
+AA,"American Airlines Inc.",2013-01-01,JFK,"John F Kennedy Intl",SJU,NULL,-39
+DL,"Delta Air Lines Inc.",2013-01-01,JFK,"John F Kennedy Intl",DTW,"Detroit Metro Wayne Co",-9
+B6,"JetBlue Airways",2013-01-01,EWR,"Newark Liberty Intl",RSW,"Southwest Florida Intl",-27
+MQ,"Envoy Air",2013-01-01,JFK,"John F Kennedy Intl",BWI,"Baltimore Washington Intl",851
+UA,"United Air Lines Inc.",2013-01-01,EWR,"Newark Liberty Intl",JAC,"Jackson Hole Airport",19
+EV,"ExpressJet Airlines Inc.",2013-01-01,EWR,"Newark Liberty Intl",RDU,"Raleigh Durham Intl",-4
+DL,"Delta Air Lines Inc.",2013-01-01,EWR,"Newark Liberty Intl",DTW,"Detroit Metro Wayne Co",-3
+UA,"United Air Lines Inc.",2013-01-01,EWR,"Newark Liberty Intl",SAN,"San Diego Intl",9
+WN,"Southwest Airlines Co.",2013-01-01,EWR,"Newark Liberty Intl",MDW,"Chicago Midway Intl",26
+B6,"JetBlue Airways",2013-01-01,JFK,"John F Kennedy Intl",TPA,"Tampa Intl",2
+DL,"Delta Air Lines Inc.",2013-01-01,LGA,"La Guardia",ATL,"Hartsfield Jackson Atlanta Intl",-2
+AA,"American Airlines Inc.",2013-01-01,JFK,"John F Kennedy Intl",LAX,"Los Angeles Intl",6
+DL,"Delta Air Lines Inc.",2013-01-01,LGA,"La Guardia",MIA,"Miami Intl",-10
+UA,"United Air Lines Inc.",2013-01-01,EWR,"Newark Liberty Intl",PBI,"Palm Beach Intl",-23
+HA,"Hawaiian Airlines Inc.",2013-01-01,JFK,"John F Kennedy Intl",HNL,"Honolulu Intl",-14
+DL,"Delta Air Lines Inc.",2013-01-01,LGA,"La Guardia",DTW,"Detroit Metro Wayne Co",-13
+DL,"Delta Air Lines Inc.",2013-01-01,EWR,"Newark Liberty Intl",ATL,"Hartsfield Jackson Atlanta Intl",-9
+UA,"United Air Lines Inc.",2013-01-01,EWR,"Newark Liberty Intl",SEA,"Seattle Tacoma Intl",-25
+MQ,"Envoy Air",2013-01-01,LGA,"La Guardia",DTW,"Detroit Metro Wayne Co",-8
+DL,"Delta Air Lines Inc.",2013-01-01,LGA,"La Guardia",MCO,"Orlando Intl",-24
+VX,"Virgin America",2013-01-01,JFK,"John F Kennedy Intl",LAX,"Los Angeles Intl",-2
+UA,"United Air Lines Inc.",2013-01-01,EWR,"Newark Liberty Intl",FLL,"Fort Lauderdale Hollywood Intl",8
+UA,"United Air Lines Inc.",2013-01-01,EWR,"Newark Liberty Intl",ORD,"Chicago Ohare Intl",3
+MQ,"Envoy Air",2013-01-01,LGA,"La Guardia",BNA,"Nashville Intl",50
+UA,"United Air Lines Inc.",2013-01-01,EWR,"Newark Liberty Intl",MIA,"Miami Intl",-19
+B6,"JetBlue Airways",2013-01-01,JFK,"John F Kennedy Intl",AUS,"Austin Bergstrom Intl",40
+UA,"United Air Lines Inc.",2013-01-01,EWR,"Newark Liberty Intl",DEN,"Denver Intl",9
+B6,"JetBlue Airways",2013-01-01,JFK,"John F Kennedy Intl",BTV,"Burlington Intl",-7
+US,"US Airways Inc.",2013-01-01,LGA,"La Guardia",PHL,"Philadelphia Intl",-29
+UA,"United Air Lines Inc.",2013-01-01,EWR,"Newark Liberty Intl",IAH,"George Bush Intercontinental",9
+AA,"American Airlines Inc.",2013-01-01,JFK,"John F Kennedy Intl",STT,NULL,16
+AA,"American Airlines Inc.",2013-01-01,JFK,"John F Kennedy Intl",MIA,"Miami Intl",21
+UA,"United Air Lines Inc.",2013-01-01,EWR,"Newark Liberty Intl",MIA,"Miami Intl",-7
+UA,"United Air Lines Inc.",2013-01-01,EWR,"Newark Liberty Intl",STT,NULL,-30
+AA,"American Airlines Inc.",2013-01-01,EWR,"Newark Liberty Intl",DFW,"Dallas Fort Worth Intl",4
+UA,"United Air Lines Inc.",2013-01-01,EWR,"Newark Liberty Intl",CLE,"Cleveland Hopkins Intl",15
+AA,"American Airlines Inc.",2013-01-01,LGA,"La Guardia",DFW,"Dallas Fort Worth Intl",28
+B6,"JetBlue Airways",2013-01-01,JFK,"John F Kennedy Intl",MCO,"Orlando Intl",-5
+B6,"JetBlue Airways",2013-01-01,JFK,"John F Kennedy Intl",RDU,"Raleigh Durham Intl",-16
+B6,"JetBlue Airways",2013-01-01,JFK,"John F Kennedy Intl",IAD,"Washington Dulles Intl",14
+MQ,"Envoy Air",2013-01-01,LGA,"La Guardia",CLT,"Charlotte Douglas Intl",27
+DL,"Delta Air Lines Inc.",2013-01-01,JFK,"John F Kennedy Intl",LAX,"Los Angeles Intl",10
+B6,"JetBlue Airways",2013-01-01,JFK,"John F Kennedy Intl",BOS,"General Edward Lawrence Logan Intl",-4
+B6,"JetBlue Airways",2013-01-01,EWR,"Newark Liberty Intl",SJU,NULL,-17
+B6,"JetBlue Airways",2013-01-01,JFK,"John F Kennedy Intl",PBI,"Palm Beach Intl",2
+UA,"United Air Lines Inc.",2013-01-01,EWR,"Newark Liberty Intl",EGE,"Eagle Co Rgnl",13
+DL,"Delta Air Lines Inc.",2013-01-01,LGA,"La Guardia",RSW,"Southwest Florida Intl",-26
+EV,"ExpressJet Airlines Inc.",2013-01-01,EWR,"Newark Liberty Intl",DCA,"Ronald Reagan Washington Natl",-14
+WN,"Southwest Airlines Co.",2013-01-01,EWR,"Newark Liberty Intl",DEN,"Denver Intl",30
+UA,"United Air Lines Inc.",2013-01-01,EWR,"Newark Liberty Intl",TPA,"Tampa Intl",9
+B6,"JetBlue Airways",2013-01-01,LGA,"La Guardia",FLL,"Fort Lauderdale Hollywood Intl",-1
+UA,"United Air Lines Inc.",2013-01-01,LGA,"La Guardia",ORD,"Chicago Ohare Intl",13
+VX,"Virgin America",2013-01-01,JFK,"John F Kennedy Intl",LAS,"Mc Carran Intl",-6
+B6,"JetBlue Airways",2013-01-01,JFK,"John F Kennedy Intl",BUF,"Buffalo Niagara Intl",-5
+B6,"JetBlue Airways",2013-01-01,JFK,"John F Kennedy Intl",FLL,"Fort Lauderdale Hollywood Intl",42
+WN,"Southwest Airlines Co.",2013-01-01,LGA,"La Guardia",MDW,"Chicago Midway Intl",15
+DL,"Delta Air Lines Inc.",2013-01-01,LGA,"La Guardia",TPA,"Tampa Intl",-16
+DL,"Delta Air Lines Inc.",2013-01-01,LGA,"La Guardia",SRQ,"Sarasota Bradenton Intl",-12
+B6,"JetBlue Airways",2013-01-01,LGA,"La Guardia",PBI,"Palm Beach Intl",3
+WN,"Southwest Airlines Co.",2013-01-01,LGA,"La Guardia",MKE,"General Mitchell Intl",7
+AA,"American Airlines Inc.",2013-01-01,LGA,"La Guardia",ORD,"Chicago Ohare Intl",-11
+MQ,"Envoy Air",2013-01-01,LGA,"La Guardia",ATL,"Hartsfield Jackson Atlanta Intl",6
+B6,"JetBlue Airways",2013-01-01,JFK,"John F Kennedy Intl",LAX,"Los Angeles Intl",2
+EV,"ExpressJet Airlines Inc.",2013-01-01,EWR,"Newark Liberty Intl",AVL,"Asheville Regional Airport",-16
+B6,"JetBlue Airways",2013-01-01,JFK,"John F Kennedy Intl",PWM,"Portland Intl Jetport",-17
+EV,"ExpressJet Airlines Inc.",2013-01-01,EWR,"Newark Liberty Intl",STL,"Lambert St Louis Intl",13
+MQ,"Envoy Air",2013-01-01,LGA,"La Guardia",BNA,"Nashville Intl",12
+UA,"United Air Lines Inc.",2013-01-01,EWR,"Newark Liberty Intl",LAX,"Los Angeles Intl",39
+US,"US Airways Inc.",2013-01-01,EWR,"Newark Liberty Intl",PHX,"Phoenix Sky Harbor Intl",11
+DL,"Delta Air Lines Inc.",2013-01-01,LGA,"La Guardia",ATL,"Hartsfield Jackson Atlanta Intl",0
+UA,"United Air Lines Inc.",2013-01-01,EWR,"Newark Liberty Intl",BOS,"General Edward Lawrence Logan Intl",123
+DL,"Delta Air Lines Inc.",2013-01-01,LGA,"La Guardia",FLL,"Fort Lauderdale Hollywood Intl",-6
+US,"US Airways Inc.",2013-01-01,LGA,"La Guardia",CLT,"Charlotte Douglas Intl",-15
+B6,"JetBlue Airways",2013-01-01,EWR,"Newark Liberty Intl",FLL,"Fort Lauderdale Hollywood Intl",-25
+US,"US Airways Inc.",2013-01-01,JFK,"John F Kennedy Intl",PHX,"Phoenix Sky Harbor Intl",39
+UA,"United Air Lines Inc.",2013-01-01,EWR,"Newark Liberty Intl",DEN,"Denver Intl",5
+MQ,"Envoy Air",2013-01-01,EWR,"Newark Liberty Intl",ORD,"Chicago Ohare Intl",7
+DL,"Delta Air Lines Inc.",2013-01-01,LGA,"La Guardia",MSP,"Minneapolis St Paul Intl",-10
+US,"US Airways Inc.",2013-01-01,EWR,"Newark Liberty Intl",CLT,"Charlotte Douglas Intl",-6
+US,"US Airways Inc.",2013-01-01,JFK,"John F Kennedy Intl",CLT,"Charlotte Douglas Intl",11
+EV,"ExpressJet Airlines Inc.",2013-01-01,LGA,"La Guardia",IAD,"Washington Dulles Intl",5
+DL,"Delta Air Lines Inc.",2013-01-01,JFK,"John F Kennedy Intl",LAS,"Mc Carran Intl",-21
+FL,"AirTran Airways Corporation",2013-01-01,LGA,"La Guardia",ATL,"Hartsfield Jackson Atlanta Intl",2
+EV,"ExpressJet Airlines Inc.",2013-01-01,EWR,"Newark Liberty Intl",BUF,"Buffalo Niagara Intl",-10
+MQ,"Envoy Air",2013-01-01,LGA,"La Guardia",RDU,"Raleigh Durham Intl",-11
+AA,"American Airlines Inc.",2013-01-01,LGA,"La Guardia",DFW,"Dallas Fort Worth Intl",26
+UA,"United Air Lines Inc.",2013-01-01,EWR,"Newark Liberty Intl",MCO,"Orlando Intl",-4
+AA,"American Airlines Inc.",2013-01-01,JFK,"John F Kennedy Intl",LAX,"Los Angeles Intl",11
+UA,"United Air Lines Inc.",2013-01-01,LGA,"La Guardia",IAH,"George Bush Intercontinental",11
+AA,"American Airlines Inc.",2013-01-01,JFK,"John F Kennedy Intl",SFO,"San Francisco Intl",32
+EV,"ExpressJet Airlines Inc.",2013-01-01,EWR,"Newark Liberty Intl",CHS,"Charleston Afb Intl",-17
+VX,"Virgin America",2013-01-01,JFK,"John F Kennedy Intl",SFO,"San Francisco Intl",-22
+UA,"United Air Lines Inc.",2013-01-01,EWR,"Newark Liberty Intl",FLL,"Fort Lauderdale Hollywood Intl",-11
+EV,"ExpressJet Airlines Inc.",2013-01-01,EWR,"Newark Liberty Intl",IND,"Indianapolis Intl",15
+UA,"United Air Lines Inc.",2013-01-01,EWR,"Newark Liberty Intl",BOS,"General Edward Lawrence Logan Intl",-6
+AA,"American Airlines Inc.",2013-01-01,LGA,"La Guardia",ORD,"Chicago Ohare Intl",11
+UA,"United Air Lines Inc.",2013-01-01,EWR,"Newark Liberty Intl",ORD,"Chicago Ohare Intl",21
+B6,"JetBlue Airways",2013-01-01,JFK,"John F Kennedy Intl",MCO,"Orlando Intl",-1
+EV,"ExpressJet Airlines Inc.",2013-01-01,EWR,"Newark Liberty Intl",MKE,"General Mitchell Intl",19
+UA,"United Air Lines Inc.",2013-01-01,EWR,"Newark Liberty Intl",IAH,"George Bush Intercontinental",1
+UA,"United Air Lines Inc.",2013-01-01,EWR,"Newark Liberty Intl",RSW,"Southwest Florida Intl",-11
+AA,"American Airlines Inc.",2013-01-01,LGA,"La Guardia",DFW,"Dallas Fort Worth Intl",-6
+DL,"Delta Air Lines Inc.",2013-01-01,JFK,"John F Kennedy Intl",SLC,"Salt Lake City Intl",-9
+MQ,"Envoy Air",2013-01-01,LGA,"La Guardia",DTW,"Detroit Metro Wayne Co",12
+B6,"JetBlue Airways",2013-01-01,LGA,"La Guardia",FLL,"Fort Lauderdale Hollywood Intl",4
+DL,"Delta Air Lines Inc.",2013-01-01,LGA,"La Guardia",ATL,"Hartsfield Jackson Atlanta Intl",-13
+EV,"ExpressJet Airlines Inc.",2013-01-01,EWR,"Newark Liberty Intl",PWM,"Portland Intl Jetport",-6
+DL,"Delta Air Lines Inc.",2013-01-01,LGA,"La Guardia",TPA,"Tampa Intl",-6
+US,"US Airways Inc.",2013-01-01,LGA,"La Guardia",DCA,"Ronald Reagan Washington Natl",-6
+WN,"Southwest Airlines Co.",2013-01-01,LGA,"La Guardia",BWI,"Baltimore Washington Intl",-14
+MQ,"Envoy Air",2013-01-01,JFK,"John F Kennedy Intl",DCA,"Ronald Reagan Washington Natl",-5
+UA,"United Air Lines Inc.",2013-01-01,EWR,"Newark Liberty Intl",LAS,"Mc Carran Intl",-9
+B6,"JetBlue Airways",2013-01-01,EWR,"Newark Liberty Intl",PBI,"Palm Beach Intl",13
+DL,"Delta Air Lines Inc.",2013-01-01,LGA,"La Guardia",MIA,"Miami Intl",-11
+UA,"United Air Lines Inc.",2013-01-01,EWR,"Newark Liberty Intl",SFO,"San Francisco Intl",23
+MQ,"Envoy Air",2013-01-01,LGA,"La Guardia",CMH,"Port Columbus Intl",-5
+AA,"American Airlines Inc.",2013-01-01,LGA,"La Guardia",MIA,"Miami Intl",-23
+B6,"JetBlue Airways",2013-01-01,JFK,"John F Kennedy Intl",BTV,"Burlington Intl",-4
+UA,"United Air Lines Inc.",2013-01-01,JFK,"John F Kennedy Intl",SFO,"San Francisco Intl",2
+DL,"Delta Air Lines Inc.",2013-01-01,LGA,"La Guardia",DTW,"Detroit Metro Wayne Co",3
+UA,"United Air Lines Inc.",2013-01-01,LGA,"La Guardia",IAH,"George Bush Intercontinental",145
+EV,"ExpressJet Airlines Inc.",2013-01-01,EWR,"Newark Liberty Intl",SAV,"Savannah Hilton Head Intl",78
+WN,"Southwest Airlines Co.",2013-01-01,LGA,"La Guardia",STL,"Lambert St Louis Intl",5
+UA,"United Air Lines Inc.",2013-01-01,LGA,"La Guardia",DEN,"Denver Intl",34
+B6,"JetBlue Airways",2013-01-01,JFK,"John F Kennedy Intl",SFO,"San Francisco Intl",4
+DL,"Delta Air Lines Inc.",2013-01-01,LGA,"La Guardia",RSW,"Southwest Florida Intl",0
+US,"US Airways Inc.",2013-01-01,LGA,"La Guardia",CLT,"Charlotte Douglas Intl",-7
+EV,"ExpressJet Airlines Inc.",2013-01-01,EWR,"Newark Liberty Intl",RDU,"Raleigh Durham Intl",-6
+UA,"United Air Lines Inc.",2013-01-01,JFK,"John F Kennedy Intl",LAX,"Los Angeles Intl",16
+UA,"United Air Lines Inc.",2013-01-01,EWR,"Newark Liberty Intl",PBI,"Palm Beach Intl",-4
+UA,"United Air Lines Inc.",2013-01-01,EWR,"Newark Liberty Intl",TPA,"Tampa Intl",-15
+AA,"American Airlines Inc.",2013-01-01,LGA,"La Guardia",ORD,"Chicago Ohare Intl",-4
+DL,"Delta Air Lines Inc.",2013-01-01,LGA,"La Guardia",MSP,"Minneapolis St Paul Intl",3
+MQ,"Envoy Air",2013-01-01,LGA,"La Guardia",CLE,"Cleveland Hopkins Intl",-6
+B6,"JetBlue Airways",2013-01-01,JFK,"John F Kennedy Intl",RSW,"Southwest Florida Intl",3
+VX,"Virgin America",2013-01-01,JFK,"John F Kennedy Intl",LAX,"Los Angeles Intl",-2
+AA,"American Airlines Inc.",2013-01-01,EWR,"Newark Liberty Intl",MIA,"Miami Intl",-16
+DL,"Delta Air Lines Inc.",2013-01-01,LGA,"La Guardia",PBI,"Palm Beach Intl",-6
+UA,"United Air Lines Inc.",2013-01-01,EWR,"Newark Liberty Intl",SNA,"John Wayne Arpt Orange Co",5
+EV,"ExpressJet Airlines Inc.",2013-01-01,EWR,"Newark Liberty Intl",ATL,"Hartsfield Jackson Atlanta Intl",11
+FL,"AirTran Airways Corporation",2013-01-01,LGA,"La Guardia",CAK,"Akron Canton Regional Airport",8
+EV,"ExpressJet Airlines Inc.",2013-01-01,EWR,"Newark Liberty Intl",SYR,"Syracuse Hancock Intl",-12
+EV,"ExpressJet Airlines Inc.",2013-01-01,EWR,"Newark Liberty Intl",CMH,"Port Columbus Intl",9
+B6,"JetBlue Airways",2013-01-01,JFK,"John F Kennedy Intl",FLL,"Fort Lauderdale Hollywood Intl",29
+DL,"Delta Air Lines Inc.",2013-01-01,JFK,"John F Kennedy Intl",LAX,"Los Angeles Intl",-39
+B6,"JetBlue Airways",2013-01-01,EWR,"Newark Liberty Intl",BOS,"General Edward Lawrence Logan Intl",-13
+MQ,"Envoy Air",2013-01-01,LGA,"La Guardia",ATL,"Hartsfield Jackson Atlanta Intl",22
+AA,"American Airlines Inc.",2013-01-01,JFK,"John F Kennedy Intl",LAX,"Los Angeles Intl",7
+DL,"Delta Air Lines Inc.",2013-01-01,LGA,"La Guardia",FLL,"Fort Lauderdale Hollywood Intl",-12
+DL,"Delta Air Lines Inc.",2013-01-01,LGA,"La Guardia",ATL,"Hartsfield Jackson Atlanta Intl",1
+MQ,"Envoy Air",2013-01-01,JFK,"John F Kennedy Intl",DCA,"Ronald Reagan Washington Natl",-3
+EV,"ExpressJet Airlines Inc.",2013-01-01,EWR,"Newark Liberty Intl",ROC,"Greater Rochester Intl",-5
+MQ,"Envoy Air",2013-01-01,LGA,"La Guardia",RDU,"Raleigh Durham Intl",-3
+UA,"United Air Lines Inc.",2013-01-01,EWR,"Newark Liberty Intl",MCO,"Orlando Intl",-4
+AA,"American Airlines Inc.",2013-01-01,LGA,"La Guardia",DFW,"Dallas Fort Worth Intl",10
+WN,"Southwest Airlines Co.",2013-01-01,EWR,"Newark Liberty Intl",BWI,"Baltimore Washington Intl",-4
+UA,"United Air Lines Inc.",2013-01-01,LGA,"La Guardia",ORD,"Chicago Ohare Intl",7
+US,"US Airways Inc.",2013-01-01,JFK,"John F Kennedy Intl",CLT,"Charlotte Douglas Intl",12
+EV,"ExpressJet Airlines Inc.",2013-01-01,EWR,"Newark Liberty Intl",BTV,"Burlington Intl",4
+UA,"United Air Lines Inc.",2013-01-01,EWR,"Newark Liberty Intl",SJU,NULL,-8
+EV,"ExpressJet Airlines Inc.",2013-01-01,EWR,"Newark Liberty Intl",ATL,"Hartsfield Jackson Atlanta Intl",24
+VX,"Virgin America",2013-01-01,JFK,"John F Kennedy Intl",SFO,"San Francisco Intl",-26
+B6,"JetBlue Airways",2013-01-01,EWR,"Newark Liberty Intl",MCO,"Orlando Intl",12
+UA,"United Air Lines Inc.",2013-01-01,EWR,"Newark Liberty Intl",IAH,"George Bush Intercontinental",-2
+EV,"ExpressJet Airlines Inc.",2013-01-01,EWR,"Newark Liberty Intl",BUF,"Buffalo Niagara Intl",-3
+B6,"JetBlue Airways",2013-01-01,JFK,"John F Kennedy Intl",HOU,"William P Hobby",38
+EV,"ExpressJet Airlines Inc.",2013-01-01,EWR,"Newark Liberty Intl",CLT,"Charlotte Douglas Intl",10
+MQ,"Envoy Air",2013-01-01,EWR,"Newark Liberty Intl",ORD,"Chicago Ohare Intl",24
+UA,"United Air Lines Inc.",2013-01-01,EWR,"Newark Liberty Intl",SFO,"San Francisco Intl",-4
+AA,"American Airlines Inc.",2013-01-01,LGA,"La Guardia",STL,"Lambert St Louis Intl",0
+DL,"Delta Air Lines Inc.",2013-01-01,LGA,"La Guardia",MSY,"Louis Armstrong New Orleans Intl",-9
+WN,"Southwest Airlines Co.",2013-01-01,EWR,"Newark Liberty Intl",MDW,"Chicago Midway Intl",23
+EV,"ExpressJet Airlines Inc.",2013-01-01,EWR,"Newark Liberty Intl",JAX,"Jacksonville Intl",43
+B6,"JetBlue Airways",2013-01-01,JFK,"John F Kennedy Intl",TPA,"Tampa Intl",-6
+UA,"United Air Lines Inc.",2013-01-01,EWR,"Newark Liberty Intl",PHX,"Phoenix Sky Harbor Intl",27
+EV,"ExpressJet Airlines Inc.",2013-01-01,EWR,"Newark Liberty Intl",DTW,"Detroit Metro Wayne Co",2
+DL,"Delta Air Lines Inc.",2013-01-01,LGA,"La Guardia",DTW,"Detroit Metro Wayne Co",3
+UA,"United Air Lines Inc.",2013-01-01,EWR,"Newark Liberty Intl",FLL,"Fort Lauderdale Hollywood Intl",-6
+AA,"American Airlines Inc.",2013-01-01,JFK,"John F Kennedy Intl",BOS,"General Edward Lawrence Logan Intl",-10
+WN,"Southwest Airlines Co.",2013-01-01,LGA,"La Guardia",MKE,"General Mitchell Intl",5
+EV,"ExpressJet Airlines Inc.",2013-01-01,EWR,"Newark Liberty Intl",DTW,"Detroit Metro Wayne Co",23
+AA,"American Airlines Inc.",2013-01-01,LGA,"La Guardia",MIA,"Miami Intl",-6
+MQ,"Envoy Air",2013-01-01,JFK,"John F Kennedy Intl",RDU,"Raleigh Durham Intl",0
+EV,"ExpressJet Airlines Inc.",2013-01-01,EWR,"Newark Liberty Intl",DCA,"Ronald Reagan Washington Natl",-13
+DL,"Delta Air Lines Inc.",2013-01-01,JFK,"John F Kennedy Intl",SLC,"Salt Lake City Intl",1
+DL,"Delta Air Lines Inc.",2013-01-01,JFK,"John F Kennedy Intl",SJU,NULL,-38
+B6,"JetBlue Airways",2013-01-01,JFK,"John F Kennedy Intl",BUF,"Buffalo Niagara Intl",36
+UA,"United Air Lines Inc.",2013-01-01,LGA,"La Guardia",IAH,"George Bush Intercontinental",0
+B6,"JetBlue Airways",2013-01-01,JFK,"John F Kennedy Intl",FLL,"Fort Lauderdale Hollywood Intl",16
+AA,"American Airlines Inc.",2013-01-01,LGA,"La Guardia",DFW,"Dallas Fort Worth Intl",34
+UA,"United Air Lines Inc.",2013-01-01,EWR,"Newark Liberty Intl",DEN,"Denver Intl",48
+DL,"Delta Air Lines Inc.",2013-01-01,LGA,"La Guardia",ATL,"Hartsfield Jackson Atlanta Intl",4
+WN,"Southwest Airlines Co.",2013-01-01,LGA,"La Guardia",DEN,"Denver Intl",5
+MQ,"Envoy Air",2013-01-01,LGA,"La Guardia",BNA,"Nashville Intl",81
+US,"US Airways Inc.",2013-01-01,LGA,"La Guardia",CLT,"Charlotte Douglas Intl",-1
+US,"US Airways Inc.",2013-01-01,LGA,"La Guardia",BOS,"General Edward Lawrence Logan Intl",-8
+B6,"JetBlue Airways",2013-01-01,JFK,"John F Kennedy Intl",LGB,"Long Beach",-9
+MQ,"Envoy Air",2013-01-01,LGA,"La Guardia",CMH,"Port Columbus Intl",4
+FL,"AirTran Airways Corporation",2013-01-01,LGA,"La Guardia",ATL,"Hartsfield Jackson Atlanta Intl",-5
+AA,"American Airlines Inc.",2013-01-01,LGA,"La Guardia",ORD,"Chicago Ohare Intl",19
+AA,"American Airlines Inc.",2013-01-01,EWR,"Newark Liberty Intl",DFW,"Dallas Fort Worth Intl",53
+MQ,"Envoy Air",2013-01-01,LGA,"La Guardia",MSP,"Minneapolis St Paul Intl",93
+UA,"United Air Lines Inc.",2013-01-01,EWR,"Newark Liberty Intl",DFW,"Dallas Fort Worth Intl",26
+B6,"JetBlue Airways",2013-01-01,JFK,"John F Kennedy Intl",BOS,"General Edward Lawrence Logan Intl",-2
+UA,"United Air Lines Inc.",2013-01-01,EWR,"Newark Liberty Intl",MIA,"Miami Intl",-8
+EV,"ExpressJet Airlines Inc.",2013-01-01,EWR,"Newark Liberty Intl",DAY,"James M Cox Dayton Intl",56
+B6,"JetBlue Airways",2013-01-01,JFK,"John F Kennedy Intl",ROC,"Greater Rochester Intl",12
+MQ,"Envoy Air",2013-01-01,LGA,"La Guardia",DTW,"Detroit Metro Wayne Co",3
+AA,"American Airlines Inc.",2013-01-01,JFK,"John F Kennedy Intl",MIA,"Miami Intl",27
+WN,"Southwest Airlines Co.",2013-01-01,EWR,"Newark Liberty Intl",HOU,"William P Hobby",12
+B6,"JetBlue Airways",2013-01-01,JFK,"John F Kennedy Intl",PBI,"Palm Beach Intl",5
+US,"US Airways Inc.",2013-01-01,EWR,"Newark Liberty Intl",CLT,"Charlotte Douglas Intl",2
+EV,"ExpressJet Airlines Inc.",2013-01-01,EWR,"Newark Liberty Intl",ALB,"Albany Intl",-10
+EV,"ExpressJet Airlines Inc.",2013-01-01,EWR,"Newark Liberty Intl",BWI,"Baltimore Washington Intl",-3
+MQ,"Envoy Air",2013-01-01,LGA,"La Guardia",RDU,"Raleigh Durham Intl",-11
+EV,"ExpressJet Airlines Inc.",2013-01-01,EWR,"Newark Liberty Intl",BDL,"Bradley Intl",-18
+B6,"JetBlue Airways",2013-01-01,LGA,"La Guardia",MCO,"Orlando Intl",-3
+UA,"United Air Lines Inc.",2013-01-01,EWR,"Newark Liberty Intl",LAX,"Los Angeles Intl",-11
+DL,"Delta Air Lines Inc.",2013-01-01,EWR,"Newark Liberty Intl",SLC,"Salt Lake City Intl",43
+DL,"Delta Air Lines Inc.",2013-01-01,JFK,"John F Kennedy Intl",ATL,"Hartsfield Jackson Atlanta Intl",1
+VX,"Virgin America",2013-01-01,JFK,"John F Kennedy Intl",LAX,"Los Angeles Intl",-17
+UA,"United Air Lines Inc.",2013-01-01,EWR,"Newark Liberty Intl",FLL,"Fort Lauderdale Hollywood Intl",-5
+EV,"ExpressJet Airlines Inc.",2013-01-01,EWR,"Newark Liberty Intl",IND,"Indianapolis Intl",37
+B6,"JetBlue Airways",2013-01-01,JFK,"John F Kennedy Intl",JAX,"Jacksonville Intl",0
+EV,"ExpressJet Airlines Inc.",2013-01-01,EWR,"Newark Liberty Intl",PIT,"Pittsburgh Intl",8
+B6,"JetBlue Airways",2013-01-01,JFK,"John F Kennedy Intl",LAX,"Los Angeles Intl",78
+AA,"American Airlines Inc.",2013-01-01,LGA,"La Guardia",MIA,"Miami Intl",-23
+B6,"JetBlue Airways",2013-01-01,LGA,"La Guardia",SRQ,"Sarasota Bradenton Intl",23
+AA,"American Airlines Inc.",2013-01-01,JFK,"John F Kennedy Intl",LAX,"Los Angeles Intl",4
+EV,"ExpressJet Airlines Inc.",2013-01-01,EWR,"Newark Liberty Intl",STL,"Lambert St Louis Intl",73
+AA,"American Airlines Inc.",2013-01-01,LGA,"La Guardia",DFW,"Dallas Fort Worth Intl",18
+UA,"United Air Lines Inc.",2013-01-01,EWR,"Newark Liberty Intl",HNL,"Honolulu Intl",21
+WN,"Southwest Airlines Co.",2013-01-01,EWR,"Newark Liberty Intl",PHX,"Phoenix Sky Harbor Intl",26
+EV,"ExpressJet Airlines Inc.",2013-01-01,EWR,"Newark Liberty Intl",BUF,"Buffalo Niagara Intl",11
+B6,"JetBlue Airways",2013-01-01,JFK,"John F Kennedy Intl",PWM,"Portland Intl Jetport",-14
+EV,"ExpressJet Airlines Inc.",2013-01-01,EWR,"Newark Liberty Intl",MHT,"Manchester Regional Airport",-13
+EV,"ExpressJet Airlines Inc.",2013-01-01,EWR,"Newark Liberty Intl",MSN,"Dane Co Rgnl Truax Fld",24
+EV,"ExpressJet Airlines Inc.",2013-01-01,EWR,"Newark Liberty Intl",CHS,"Charleston Afb Intl",-4
+DL,"Delta Air Lines Inc.",2013-01-01,JFK,"John F Kennedy Intl",BOS,"General Edward Lawrence Logan Intl",-22
+EV,"ExpressJet Airlines Inc.",2013-01-01,EWR,"Newark Liberty Intl",GSO,"Piedmont Triad",46
+B6,"JetBlue Airways",2013-01-01,JFK,"John F Kennedy Intl",MCO,"Orlando Intl",-4
+WN,"Southwest Airlines Co.",2013-01-01,LGA,"La Guardia",MDW,"Chicago Midway Intl",22
+MQ,"Envoy Air",2013-01-01,LGA,"La Guardia",CLT,"Charlotte Douglas Intl",27
+UA,"United Air Lines Inc.",2013-01-01,EWR,"Newark Liberty Intl",ORD,"Chicago Ohare Intl",60
+UA,"United Air Lines Inc.",2013-01-01,LGA,"La Guardia",ORD,"Chicago Ohare Intl",11
+UA,"United Air Lines Inc.",2013-01-01,EWR,"Newark Liberty Intl",IAH,"George Bush Intercontinental",19
+US,"US Airways Inc.",2013-01-01,EWR,"Newark Liberty Intl",PHX,"Phoenix Sky Harbor Intl",27
+EV,"ExpressJet Airlines Inc.",2013-01-01,LGA,"La Guardia",MEM,"Memphis Intl",103
+DL,"Delta Air Lines Inc.",2013-01-01,LGA,"La Guardia",ATL,"Hartsfield Jackson Atlanta Intl",-2
+EV,"ExpressJet Airlines Inc.",2013-01-01,EWR,"Newark Liberty Intl",MEM,"Memphis Intl",84
+FL,"AirTran Airways Corporation",2013-01-01,LGA,"La Guardia",ATL,"Hartsfield Jackson Atlanta Intl",6
+B6,"JetBlue Airways",2013-01-01,EWR,"Newark Liberty Intl",FLL,"Fort Lauderdale Hollywood Intl",66
+UA,"United Air Lines Inc.",2013-01-01,EWR,"Newark Liberty Intl",ORD,"Chicago Ohare Intl",14
+UA,"United Air Lines Inc.",2013-01-01,EWR,"Newark Liberty Intl",SEA,"Seattle Tacoma Intl",-6
+MQ,"Envoy Air",2013-01-01,EWR,"Newark Liberty Intl",ORD,"Chicago Ohare Intl",7
+B6,"JetBlue Airways",2013-01-01,JFK,"John F Kennedy Intl",BOS,"General Edward Lawrence Logan Intl",-18
+B6,"JetBlue Airways",2013-01-01,JFK,"John F Kennedy Intl",SEA,"Seattle Tacoma Intl",26
+DL,"Delta Air Lines Inc.",2013-01-01,LGA,"La Guardia",RSW,"Southwest Florida Intl",-28
+MQ,"Envoy Air",2013-01-01,LGA,"La Guardia",CLE,"Cleveland Hopkins Intl",18
+UA,"United Air Lines Inc.",2013-01-01,JFK,"John F Kennedy Intl",SFO,"San Francisco Intl",-11
+EV,"ExpressJet Airlines Inc.",2013-01-01,LGA,"La Guardia",IAD,"Washington Dulles Intl",-15
+EV,"ExpressJet Airlines Inc.",2013-01-01,EWR,"Newark Liberty Intl",CVG,"Cincinnati Northern Kentucky Intl",65
+EV,"ExpressJet Airlines Inc.",2013-01-01,EWR,"Newark Liberty Intl",ATL,"Hartsfield Jackson Atlanta Intl",15
+B6,"JetBlue Airways",2013-01-01,JFK,"John F Kennedy Intl",BUR,"Bob Hope",83
+UA,"United Air Lines Inc.",2013-01-01,EWR,"Newark Liberty Intl",PBI,"Palm Beach Intl",26
+UA,"United Air Lines Inc.",2013-01-01,LGA,"La Guardia",IAH,"George Bush Intercontinental",-9
+B6,"JetBlue Airways",2013-01-01,LGA,"La Guardia",PBI,"Palm Beach Intl",5
+UA,"United Air Lines Inc.",2013-01-01,EWR,"Newark Liberty Intl",CLE,"Cleveland Hopkins Intl",11
+DL,"Delta Air Lines Inc.",2013-01-01,LGA,"La Guardia",MSP,"Minneapolis St Paul Intl",-8
+DL,"Delta Air Lines Inc.",2013-01-01,JFK,"John F Kennedy Intl",SFO,"San Francisco Intl",20
+DL,"Delta Air Lines Inc.",2013-01-01,JFK,"John F Kennedy Intl",DCA,"Ronald Reagan Washington Natl",-15
+DL,"Delta Air Lines Inc.",2013-01-01,LGA,"La Guardia",DTW,"Detroit Metro Wayne Co",15
+AA,"American Airlines Inc.",2013-01-01,JFK,"John F Kennedy Intl",MCO,"Orlando Intl",-27
+EV,"ExpressJet Airlines Inc.",2013-01-01,EWR,"Newark Liberty Intl",IAD,"Washington Dulles Intl",-2
+AA,"American Airlines Inc.",2013-01-01,LGA,"La Guardia",ORD,"Chicago Ohare Intl",-10
+MQ,"Envoy Air",2013-01-01,LGA,"La Guardia",ATL,"Hartsfield Jackson Atlanta Intl",19
+AA,"American Airlines Inc.",2013-01-01,JFK,"John F Kennedy Intl",MIA,"Miami Intl",-22
+US,"US Airways Inc.",2013-01-01,LGA,"La Guardia",CLT,"Charlotte Douglas Intl",4
+MQ,"Envoy Air",2013-01-01,JFK,"John F Kennedy Intl",RDU,"Raleigh Durham Intl",11
+9E,"Endeavor Air Inc.",2013-01-01,JFK,"John F Kennedy Intl",IAD,"Washington Dulles Intl",-2
+9E,"Endeavor Air Inc.",2013-01-01,JFK,"John F Kennedy Intl",BUF,"Buffalo Niagara Intl",-2
+B6,"JetBlue Airways",2013-01-01,JFK,"John F Kennedy Intl",FLL,"Fort Lauderdale Hollywood Intl",-18
+MQ,"Envoy Air",2013-01-01,JFK,"John F Kennedy Intl",CLE,"Cleveland Hopkins Intl",22
+US,"US Airways Inc.",2013-01-01,LGA,"La Guardia",DCA,"Ronald Reagan Washington Natl",-19
+EV,"ExpressJet Airlines Inc.",2013-01-01,EWR,"Newark Liberty Intl",PWM,"Portland Intl Jetport",-21
+9E,"Endeavor Air Inc.",2013-01-01,JFK,"John F Kennedy Intl",SYR,"Syracuse Hancock Intl",-1
+DL,"Delta Air Lines Inc.",2013-01-01,JFK,"John F Kennedy Intl",LAX,"Los Angeles Intl",-22
+B6,"JetBlue Airways",2013-01-01,JFK,"John F Kennedy Intl",MSY,"Louis Armstrong New Orleans Intl",1
+B6,"JetBlue Airways",2013-01-01,JFK,"John F Kennedy Intl",PIT,"Pittsburgh Intl",10
+DL,"Delta Air Lines Inc.",2013-01-01,LGA,"La Guardia",PBI,"Palm Beach Intl",-17
+UA,"United Air Lines Inc.",2013-01-01,LGA,"La Guardia",ORD,"Chicago Ohare Intl",17
+UA,"United Air Lines Inc.",2013-01-01,EWR,"Newark Liberty Intl",AUS,"Austin Bergstrom Intl",17
+UA,"United Air Lines Inc.",2013-01-01,EWR,"Newark Liberty Intl",RSW,"Southwest Florida Intl",-17
+US,"US Airways Inc.",2013-01-01,EWR,"Newark Liberty Intl",CLT,"Charlotte Douglas Intl",-4
+MQ,"Envoy Air",2013-01-01,LGA,"La Guardia",CMH,"Port Columbus Intl",3
+EV,"ExpressJet Airlines Inc.",2013-01-01,EWR,"Newark Liberty Intl",CMH,"Port Columbus Intl",0
+UA,"United Air Lines Inc.",2013-01-01,EWR,"Newark Liberty Intl",TPA,"Tampa Intl",-1
+B6,"JetBlue Airways",2013-01-01,LGA,"La Guardia",FLL,"Fort Lauderdale Hollywood Intl",3
+UA,"United Air Lines Inc.",2013-01-01,EWR,"Newark Liberty Intl",FLL,"Fort Lauderdale Hollywood Intl",-4
+EV,"ExpressJet Airlines Inc.",2013-01-01,EWR,"Newark Liberty Intl",RIC,"Richmond Intl",127
+MQ,"Envoy Air",2013-01-01,LGA,"La Guardia",RDU,"Raleigh Durham Intl",-1
+AA,"American Airlines Inc.",2013-01-01,LGA,"La Guardia",DFW,"Dallas Fort Worth Intl",18
+UA,"United Air Lines Inc.",2013-01-01,LGA,"La Guardia",DEN,"Denver Intl",-18
+9E,"Endeavor Air Inc.",2013-01-01,JFK,"John F Kennedy Intl",ROC,"Greater Rochester Intl",-5
+MQ,"Envoy Air",2013-01-01,JFK,"John F Kennedy Intl",IND,"Indianapolis Intl",3
+UA,"United Air Lines Inc.",2013-01-01,EWR,"Newark Liberty Intl",MCO,"Orlando Intl",26
+B6,"JetBlue Airways",2013-01-01,EWR,"Newark Liberty Intl",TPA,"Tampa Intl",0
+DL,"Delta Air Lines Inc.",2013-01-01,LGA,"La Guardia",ATL,"Hartsfield Jackson Atlanta Intl",11
+DL,"Delta Air Lines Inc.",2013-01-01,LGA,"La Guardia",BUF,"Buffalo Niagara Intl",-3
+B6,"JetBlue Airways",2013-01-01,JFK,"John F Kennedy Intl",MCO,"Orlando Intl",-18
+EV,"ExpressJet Airlines Inc.",2013-01-01,EWR,"Newark Liberty Intl",CLT,"Charlotte Douglas Intl",11
+MQ,"Envoy Air",2013-01-01,JFK,"John F Kennedy Intl",PIT,"Pittsburgh Intl",5
+B6,"JetBlue Airways",2013-01-01,JFK,"John F Kennedy Intl",SRQ,"Sarasota Bradenton Intl",52
+UA,"United Air Lines Inc.",2013-01-01,EWR,"Newark Liberty Intl",SFO,"San Francisco Intl",5
+AA,"American Airlines Inc.",2013-01-01,EWR,"Newark Liberty Intl",DFW,"Dallas Fort Worth Intl",60
+MQ,"Envoy Air",2013-01-01,JFK,"John F Kennedy Intl",DCA,"Ronald Reagan Washington Natl",-12
+UA,"United Air Lines Inc.",2013-01-01,EWR,"Newark Liberty Intl",MCO,"Orlando Intl",1
+DL,"Delta Air Lines Inc.",2013-01-01,LGA,"La Guardia",MCO,"Orlando Intl",7
+MQ,"Envoy Air",2013-01-01,JFK,"John F Kennedy Intl",CMH,"Port Columbus Intl",6
+UA,"United Air Lines Inc.",2013-01-01,JFK,"John F Kennedy Intl",LAX,"Los Angeles Intl",3
+UA,"United Air Lines Inc.",2013-01-01,EWR,"Newark Liberty Intl",LAX,"Los Angeles Intl",3
+B6,"JetBlue Airways",2013-01-01,JFK,"John F Kennedy Intl",PBI,"Palm Beach Intl",27
+B6,"JetBlue Airways",2013-01-01,EWR,"Newark Liberty Intl",MCO,"Orlando Intl",125
+MQ,"Envoy Air",2013-01-01,LGA,"La Guardia",XNA,"NW Arkansas Regional",NULL
+WN,"Southwest Airlines Co.",2013-01-01,EWR,"Newark Liberty Intl",MDW,"Chicago Midway Intl",24
+AA,"American Airlines Inc.",2013-01-01,JFK,"John F Kennedy Intl",FLL,"Fort Lauderdale Hollywood Intl",-14
+B6,"JetBlue Airways",2013-01-01,JFK,"John F Kennedy Intl",BUF,"Buffalo Niagara Intl",27
+B6,"JetBlue Airways",2013-01-01,JFK,"John F Kennedy Intl",RSW,"Southwest Florida Intl",-21
+UA,"United Air Lines Inc.",2013-01-01,EWR,"Newark Liberty Intl",IAH,"George Bush Intercontinental",44
+EV,"ExpressJet Airlines Inc.",2013-01-01,EWR,"Newark Liberty Intl",STL,"Lambert St Louis Intl",NULL
+AA,"American Airlines Inc.",2013-01-01,LGA,"La Guardia",STL,"Lambert St Louis Intl",6
+UA,"United Air Lines Inc.",2013-01-01,EWR,"Newark Liberty Intl",ORD,"Chicago Ohare Intl",46
+US,"US Airways Inc.",2013-01-01,LGA,"La Guardia",CLT,"Charlotte Douglas Intl",-4
+9E,"Endeavor Air Inc.",2013-01-01,JFK,"John F Kennedy Intl",BWI,"Baltimore Washington Intl",-5
+EV,"ExpressJet Airlines Inc.",2013-01-01,EWR,"Newark Liberty Intl",DCA,"Ronald Reagan Washington Natl",34
+EV,"ExpressJet Airlines Inc.",2013-01-01,EWR,"Newark Liberty Intl",GSP,"Greenville-Spartanburg International",47
+UA,"United Air Lines Inc.",2013-01-01,EWR,"Newark Liberty Intl",DEN,"Denver Intl",19
+EV,"ExpressJet Airlines Inc.",2013-01-01,EWR,"Newark Liberty Intl",GRR,"Gerald R Ford Intl",20
+WN,"Southwest Airlines Co.",2013-01-01,LGA,"La Guardia",MKE,"General Mitchell Intl",19
+DL,"Delta Air Lines Inc.",2013-01-01,JFK,"John F Kennedy Intl",MCO,"Orlando Intl",-24
+AA,"American Airlines Inc.",2013-01-01,JFK,"John F Kennedy Intl",SFO,"San Francisco Intl",-6
+AA,"American Airlines Inc.",2013-01-01,JFK,"John F Kennedy Intl",LAX,"Los Angeles Intl",-17
+UA,"United Air Lines Inc.",2013-01-01,EWR,"Newark Liberty Intl",LAS,"Mc Carran Intl",35
+B6,"JetBlue Airways",2013-01-01,JFK,"John F Kennedy Intl",SJU,NULL,115
+DL,"Delta Air Lines Inc.",2013-01-01,JFK,"John F Kennedy Intl",SAN,"San Diego Intl",-21
+DL,"Delta Air Lines Inc.",2013-01-01,JFK,"John F Kennedy Intl",SLC,"Salt Lake City Intl",8
+UA,"United Air Lines Inc.",2013-01-01,LGA,"La Guardia",CLE,"Cleveland Hopkins Intl",-2
+9E,"Endeavor Air Inc.",2013-01-01,JFK,"John F Kennedy Intl",ORD,"Chicago Ohare Intl",5
+DL,"Delta Air Lines Inc.",2013-01-01,EWR,"Newark Liberty Intl",ATL,"Hartsfield Jackson Atlanta Intl",8
+MQ,"Envoy Air",2013-01-01,LGA,"La Guardia",MSP,"Minneapolis St Paul Intl",91
+EV,"ExpressJet Airlines Inc.",2013-01-01,EWR,"Newark Liberty Intl",MCI,"Kansas City Intl",136
+UA,"United Air Lines Inc.",2013-01-01,EWR,"Newark Liberty Intl",MIA,"Miami Intl",-8
+9E,"Endeavor Air Inc.",2013-01-01,JFK,"John F Kennedy Intl",IND,"Indianapolis Intl",13
+EV,"ExpressJet Airlines Inc.",2013-01-01,LGA,"La Guardia",IAD,"Washington Dulles Intl",12
+FL,"AirTran Airways Corporation",2013-01-01,LGA,"La Guardia",ATL,"Hartsfield Jackson Atlanta Intl",6
+9E,"Endeavor Air Inc.",2013-01-01,JFK,"John F Kennedy Intl",BNA,"Nashville Intl",-8
+AA,"American Airlines Inc.",2013-01-01,JFK,"John F Kennedy Intl",DFW,"Dallas Fort Worth Intl",18
+9E,"Endeavor Air Inc.",2013-01-01,JFK,"John F Kennedy Intl",BOS,"General Edward Lawrence Logan Intl",-33
+DL,"Delta Air Lines Inc.",2013-01-01,LGA,"La Guardia",ATL,"Hartsfield Jackson Atlanta Intl",16
+MQ,"Envoy Air",2013-01-01,JFK,"John F Kennedy Intl",CVG,"Cincinnati Northern Kentucky Intl",10
+EV,"ExpressJet Airlines Inc.",2013-01-01,LGA,"La Guardia",PIT,"Pittsburgh Intl",-2
+DL,"Delta Air Lines Inc.",2013-01-01,JFK,"John F Kennedy Intl",RSW,"Southwest Florida Intl",-29
+UA,"United Air Lines Inc.",2013-01-01,LGA,"La Guardia",ORD,"Chicago Ohare Intl",4
+EV,"ExpressJet Airlines Inc.",2013-01-01,EWR,"Newark Liberty Intl",BNA,"Nashville Intl",65
+EV,"ExpressJet Airlines Inc.",2013-01-01,JFK,"John F Kennedy Intl",IAD,"Washington Dulles Intl",123
+B6,"JetBlue Airways",2013-01-01,EWR,"Newark Liberty Intl",FLL,"Fort Lauderdale Hollywood Intl",7
+DL,"Delta Air Lines Inc.",2013-01-01,JFK,"John F Kennedy Intl",LAS,"Mc Carran Intl",-28
+9E,"Endeavor Air Inc.",2013-01-01,JFK,"John F Kennedy Intl",PHL,"Philadelphia Intl",-17
+UA,"United Air Lines Inc.",2013-01-01,EWR,"Newark Liberty Intl",ORD,"Chicago Ohare Intl",15
+DL,"Delta Air Lines Inc.",2013-01-01,LGA,"La Guardia",MCI,"Kansas City Intl",-4
+EV,"ExpressJet Airlines Inc.",2013-01-01,EWR,"Newark Liberty Intl",BUF,"Buffalo Niagara Intl",12
+B6,"JetBlue Airways",2013-01-01,JFK,"John F Kennedy Intl",ORD,"Chicago Ohare Intl",12
+WN,"Southwest Airlines Co.",2013-01-01,EWR,"Newark Liberty Intl",DEN,"Denver Intl",9
+MQ,"Envoy Air",2013-01-01,LGA,"La Guardia",RDU,"Raleigh Durham Intl",28
+UA,"United Air Lines Inc.",2013-01-01,EWR,"Newark Liberty Intl",FLL,"Fort Lauderdale Hollywood Intl",6
+MQ,"Envoy Air",2013-01-01,LGA,"La Guardia",CLT,"Charlotte Douglas Intl",67
+AA,"American Airlines Inc.",2013-01-01,LGA,"La Guardia",ORD,"Chicago Ohare Intl",4
+B6,"JetBlue Airways",2013-01-01,JFK,"John F Kennedy Intl",SYR,"Syracuse Hancock Intl",20
+UA,"United Air Lines Inc.",2013-01-01,EWR,"Newark Liberty Intl",BOS,"General Edward Lawrence Logan Intl",78
+AA,"American Airlines Inc.",2013-01-01,LGA,"La Guardia",DFW,"Dallas Fort Worth Intl",72
+AA,"American Airlines Inc.",2013-01-01,LGA,"La Guardia",MIA,"Miami Intl",28
+B6,"JetBlue Airways",2013-01-01,JFK,"John F Kennedy Intl",MCO,"Orlando Intl",-23
+DL,"Delta Air Lines Inc.",2013-01-01,JFK,"John F Kennedy Intl",FLL,"Fort Lauderdale Hollywood Intl",-35
+DL,"Delta Air Lines Inc.",2013-01-01,LGA,"La Guardia",MSP,"Minneapolis St Paul Intl",-3
+DL,"Delta Air Lines Inc.",2013-01-01,LGA,"La Guardia",DEN,"Denver Intl",18
+UA,"United Air Lines Inc.",2013-01-01,EWR,"Newark Liberty Intl",PHX,"Phoenix Sky Harbor Intl",29
+EV,"ExpressJet Airlines Inc.",2013-01-01,EWR,"Newark Liberty Intl",PIT,"Pittsburgh Intl",20
+MQ,"Envoy Air",2013-01-01,LGA,"La Guardia",ATL,"Hartsfield Jackson Atlanta Intl",17
+UA,"United Air Lines Inc.",2013-01-01,EWR,"Newark Liberty Intl",IAH,"George Bush Intercontinental",23
+DL,"Delta Air Lines Inc.",2013-01-01,JFK,"John F Kennedy Intl",ATL,"Hartsfield Jackson Atlanta Intl",34
+US,"US Airways Inc.",2013-01-01,JFK,"John F Kennedy Intl",PHX,"Phoenix Sky Harbor Intl",3
+AA,"American Airlines Inc.",2013-01-01,JFK,"John F Kennedy Intl",SJU,NULL,4
+B6,"JetBlue Airways",2013-01-01,JFK,"John F Kennedy Intl",LAX,"Los Angeles Intl",15
+DL,"Delta Air Lines Inc.",2013-01-01,JFK,"John F Kennedy Intl",DTW,"Detroit Metro Wayne Co",2
+B6,"JetBlue Airways",2013-01-01,JFK,"John F Kennedy Intl",TPA,"Tampa Intl",80
+VX,"Virgin America",2013-01-01,JFK,"John F Kennedy Intl",SFO,"San Francisco Intl",-40
+EV,"ExpressJet Airlines Inc.",2013-01-01,EWR,"Newark Liberty Intl",IAD,"Washington Dulles Intl",59
+DL,"Delta Air Lines Inc.",2013-01-01,JFK,"John F Kennedy Intl",DEN,"Denver Intl",-16
+EV,"ExpressJet Airlines Inc.",2013-01-01,EWR,"Newark Liberty Intl",CVG,"Cincinnati Northern Kentucky Intl",67
+B6,"JetBlue Airways",2013-01-01,JFK,"John F Kennedy Intl",PBI,"Palm Beach Intl",-30
+EV,"ExpressJet Airlines Inc.",2013-01-01,EWR,"Newark Liberty Intl",DCA,"Ronald Reagan Washington Natl",13
+US,"US Airways Inc.",2013-01-01,EWR,"Newark Liberty Intl",PHX,"Phoenix Sky Harbor Intl",-4
+UA,"United Air Lines Inc.",2013-01-01,EWR,"Newark Liberty Intl",SAN,"San Diego Intl",-15
+WN,"Southwest Airlines Co.",2013-01-01,LGA,"La Guardia",STL,"Lambert St Louis Intl",23
+MQ,"Envoy Air",2013-01-01,EWR,"Newark Liberty Intl",ORD,"Chicago Ohare Intl",14
+UA,"United Air Lines Inc.",2013-01-01,EWR,"Newark Liberty Intl",DEN,"Denver Intl",21
+UA,"United Air Lines Inc.",2013-01-01,EWR,"Newark Liberty Intl",CLE,"Cleveland Hopkins Intl",20
+B6,"JetBlue Airways",2013-01-01,EWR,"Newark Liberty Intl",BOS,"General Edward Lawrence Logan Intl",-8
+9E,"Endeavor Air Inc.",2013-01-01,JFK,"John F Kennedy Intl",MSP,"Minneapolis St Paul Intl",39
+EV,"ExpressJet Airlines Inc.",2013-01-01,EWR,"Newark Liberty Intl",MKE,"General Mitchell Intl",96
+MQ,"Envoy Air",2013-01-01,LGA,"La Guardia",DTW,"Detroit Metro Wayne Co",9
+AA,"American Airlines Inc.",2013-01-01,JFK,"John F Kennedy Intl",BOS,"General Edward Lawrence Logan Intl",-34
+UA,"United Air Lines Inc.",2013-01-01,EWR,"Newark Liberty Intl",RSW,"Southwest Florida Intl",25
+EV,"ExpressJet Airlines Inc.",2013-01-01,EWR,"Newark Liberty Intl",GSO,"Piedmont Triad",16
+EV,"ExpressJet Airlines Inc.",2013-01-01,EWR,"Newark Liberty Intl",ATL,"Hartsfield Jackson Atlanta Intl",26
+B6,"JetBlue Airways",2013-01-01,LGA,"La Guardia",TPA,"Tampa Intl",56
+B6,"JetBlue Airways",2013-01-01,JFK,"John F Kennedy Intl",SAN,"San Diego Intl",-4
+AA,"American Airlines Inc.",2013-01-01,LGA,"La Guardia",DFW,"Dallas Fort Worth Intl",35
+DL,"Delta Air Lines Inc.",2013-01-01,LGA,"La Guardia",FLL,"Fort Lauderdale Hollywood Intl",-13
+EV,"ExpressJet Airlines Inc.",2013-01-01,EWR,"Newark Liberty Intl",MHT,"Manchester Regional Airport",-1
+DL,"Delta Air Lines Inc.",2013-01-01,JFK,"John F Kennedy Intl",AUS,"Austin Bergstrom Intl",-14
+EV,"ExpressJet Airlines Inc.",2013-01-01,EWR,"Newark Liberty Intl",ALB,"Albany Intl",40
+AA,"American Airlines Inc.",2013-01-01,JFK,"John F Kennedy Intl",EGE,"Eagle Co Rgnl",3
+DL,"Delta Air Lines Inc.",2013-01-01,JFK,"John F Kennedy Intl",SFO,"San Francisco Intl",-22
+VX,"Virgin America",2013-01-01,JFK,"John F Kennedy Intl",LAX,"Los Angeles Intl",-5
+AA,"American Airlines Inc.",2013-01-01,JFK,"John F Kennedy Intl",LAS,"Mc Carran Intl",-14
+WN,"Southwest Airlines Co.",2013-01-01,EWR,"Newark Liberty Intl",STL,"Lambert St Louis Intl",41
+UA,"United Air Lines Inc.",2013-01-01,EWR,"Newark Liberty Intl",MCO,"Orlando Intl",22
+MQ,"Envoy Air",2013-01-01,JFK,"John F Kennedy Intl",ORF,"Norfolk Intl",-32
+AA,"American Airlines Inc.",2013-01-01,JFK,"John F Kennedy Intl",AUS,"Austin Bergstrom Intl",11
+UA,"United Air Lines Inc.",2013-01-01,LGA,"La Guardia",ORD,"Chicago Ohare Intl",16
+UA,"United Air Lines Inc.",2013-01-01,LGA,"La Guardia",IAH,"George Bush Intercontinental",16
+AA,"American Airlines Inc.",2013-01-01,EWR,"Newark Liberty Intl",DFW,"Dallas Fort Worth Intl",44
+US,"US Airways Inc.",2013-01-01,LGA,"La Guardia",CLT,"Charlotte Douglas Intl",9
+DL,"Delta Air Lines Inc.",2013-01-01,EWR,"Newark Liberty Intl",ATL,"Hartsfield Jackson Atlanta Intl",-12
+UA,"United Air Lines Inc.",2013-01-01,EWR,"Newark Liberty Intl",LAX,"Los Angeles Intl",6
+WN,"Southwest Airlines Co.",2013-01-01,EWR,"Newark Liberty Intl",HOU,"William P Hobby",32
+EV,"ExpressJet Airlines Inc.",2013-01-01,EWR,"Newark Liberty Intl",BTV,"Burlington Intl",14
+B6,"JetBlue Airways",2013-01-01,JFK,"John F Kennedy Intl",CLT,"Charlotte Douglas Intl",33
+B6,"JetBlue Airways",2013-01-01,LGA,"La Guardia",PBI,"Palm Beach Intl",68
+UA,"United Air Lines Inc.",2013-01-01,LGA,"La Guardia",DEN,"Denver Intl",-19
+UA,"United Air Lines Inc.",2013-01-01,EWR,"Newark Liberty Intl",SAT,"San Antonio Intl",6
+B6,"JetBlue Airways",2013-01-01,JFK,"John F Kennedy Intl",FLL,"Fort Lauderdale Hollywood Intl",-8
+AA,"American Airlines Inc.",2013-01-01,JFK,"John F Kennedy Intl",ORD,"Chicago Ohare Intl",0
+F9,"Frontier Airlines Inc.",2013-01-01,LGA,"La Guardia",DEN,"Denver Intl",-6
+B6,"JetBlue Airways",2013-01-01,JFK,"John F Kennedy Intl",SJU,NULL,61
+UA,"United Air Lines Inc.",2013-01-01,EWR,"Newark Liberty Intl",ORD,"Chicago Ohare Intl",16
+AA,"American Airlines Inc.",2013-01-01,LGA,"La Guardia",ORD,"Chicago Ohare Intl",10
+B6,"JetBlue Airways",2013-01-01,JFK,"John F Kennedy Intl",SJU,NULL,-7
+MQ,"Envoy Air",2013-01-01,LGA,"La Guardia",RDU,"Raleigh Durham Intl",3
+DL,"Delta Air Lines Inc.",2013-01-01,JFK,"John F Kennedy Intl",LAX,"Los Angeles Intl",16
+US,"US Airways Inc.",2013-01-01,EWR,"Newark Liberty Intl",CLT,"Charlotte Douglas Intl",3
+UA,"United Air Lines Inc.",2013-01-01,EWR,"Newark Liberty Intl",IAH,"George Bush Intercontinental",24
+AA,"American Airlines Inc.",2013-01-01,JFK,"John F Kennedy Intl",MIA,"Miami Intl",4
+UA,"United Air Lines Inc.",2013-01-01,JFK,"John F Kennedy Intl",SFO,"San Francisco Intl",-18
+AA,"American Airlines Inc.",2013-01-01,JFK,"John F Kennedy Intl",SAN,"San Diego Intl",3
+EV,"ExpressJet Airlines Inc.",2013-01-01,EWR,"Newark Liberty Intl",SDF,"Louisville International Airport",107
+UA,"United Air Lines Inc.",2013-01-01,EWR,"Newark Liberty Intl",SFO,"San Francisco Intl",-3
+FL,"AirTran Airways Corporation",2013-01-01,LGA,"La Guardia",ATL,"Hartsfield Jackson Atlanta Intl",14
+B6,"JetBlue Airways",2013-01-01,JFK,"John F Kennedy Intl",PHX,"Phoenix Sky Harbor Intl",16
+UA,"United Air Lines Inc.",2013-01-01,EWR,"Newark Liberty Intl",SEA,"Seattle Tacoma Intl",-19
+EV,"ExpressJet Airlines Inc.",2013-01-01,EWR,"Newark Liberty Intl",DAY,"James M Cox Dayton Intl",123
+B6,"JetBlue Airways",2013-01-01,JFK,"John F Kennedy Intl",RSW,"Southwest Florida Intl",46
+B6,"JetBlue Airways",2013-01-01,EWR,"Newark Liberty Intl",PBI,"Palm Beach Intl",-12
+DL,"Delta Air Lines Inc.",2013-01-01,LGA,"La Guardia",DTW,"Detroit Metro Wayne Co",3
+DL,"Delta Air Lines Inc.",2013-01-01,JFK,"John F Kennedy Intl",PDX,"Portland Intl",-21
+DL,"Delta Air Lines Inc.",2013-01-01,LGA,"La Guardia",MIA,"Miami Intl",68
+MQ,"Envoy Air",2013-01-01,LGA,"La Guardia",XNA,"NW Arkansas Regional",NULL
+DL,"Delta Air Lines Inc.",2013-01-01,LGA,"La Guardia",MCO,"Orlando Intl",-24
+9E,"Endeavor Air Inc.",2013-01-01,JFK,"John F Kennedy Intl",RDU,"Raleigh Durham Intl",66
+B6,"JetBlue Airways",2013-01-01,EWR,"Newark Liberty Intl",MCO,"Orlando Intl",-2
+B6,"JetBlue Airways",2013-01-01,JFK,"John F Kennedy Intl",TPA,"Tampa Intl",27
+DL,"Delta Air Lines Inc.",2013-01-01,LGA,"La Guardia",TPA,"Tampa Intl",-4
+WN,"Southwest Airlines Co.",2013-01-01,LGA,"La Guardia",MDW,"Chicago Midway Intl",10
+B6,"JetBlue Airways",2013-01-01,JFK,"John F Kennedy Intl",IAD,"Washington Dulles Intl",34
+UA,"United Air Lines Inc.",2013-01-01,JFK,"John F Kennedy Intl",LAX,"Los Angeles Intl",-6
+B6,"JetBlue Airways",2013-01-01,JFK,"John F Kennedy Intl",MCO,"Orlando Intl",4
+WN,"Southwest Airlines Co.",2013-01-01,EWR,"Newark Liberty Intl",MDW,"Chicago Midway Intl",65
+B6,"JetBlue Airways",2013-01-01,LGA,"La Guardia",MCO,"Orlando Intl",21
+UA,"United Air Lines Inc.",2013-01-01,EWR,"Newark Liberty Intl",MCO,"Orlando Intl",17
+EV,"ExpressJet Airlines Inc.",2013-01-01,EWR,"Newark Liberty Intl",DCA,"Ronald Reagan Washington Natl",51
+DL,"Delta Air Lines Inc.",2013-01-01,LGA,"La Guardia",ATL,"Hartsfield Jackson Atlanta Intl",-15
+B6,"JetBlue Airways",2013-01-01,JFK,"John F Kennedy Intl",BOS,"General Edward Lawrence Logan Intl",-12
+B6,"JetBlue Airways",2013-01-01,JFK,"John F Kennedy Intl",FLL,"Fort Lauderdale Hollywood Intl",-5
+UA,"United Air Lines Inc.",2013-01-01,EWR,"Newark Liberty Intl",ORD,"Chicago Ohare Intl",37
+EV,"ExpressJet Airlines Inc.",2013-01-01,EWR,"Newark Liberty Intl",CMH,"Port Columbus Intl",8
+B6,"JetBlue Airways",2013-01-01,JFK,"John F Kennedy Intl",RDU,"Raleigh Durham Intl",-6
+UA,"United Air Lines Inc.",2013-01-01,EWR,"Newark Liberty Intl",CLE,"Cleveland Hopkins Intl",-3
+DL,"Delta Air Lines Inc.",2013-01-01,LGA,"La Guardia",BUF,"Buffalo Niagara Intl",-14
+UA,"United Air Lines Inc.",2013-01-01,EWR,"Newark Liberty Intl",LAX,"Los Angeles Intl",-12
+EV,"ExpressJet Airlines Inc.",2013-01-01,EWR,"Newark Liberty Intl",DTW,"Detroit Metro Wayne Co",37
+MQ,"Envoy Air",2013-01-01,LGA,"La Guardia",BNA,"Nashville Intl",138
+US,"US Airways Inc.",2013-01-01,JFK,"John F Kennedy Intl",CLT,"Charlotte Douglas Intl",20
+UA,"United Air Lines Inc.",2013-01-01,EWR,"Newark Liberty Intl",PDX,"Portland Intl",-2
+MQ,"Envoy Air",2013-01-01,LGA,"La Guardia",BNA,"Nashville Intl",17
+UA,"United Air Lines Inc.",2013-01-01,EWR,"Newark Liberty Intl",SAN,"San Diego Intl",NULL
+AS,"Alaska Airlines Inc.",2013-01-01,EWR,"Newark Liberty Intl",SEA,"Seattle Tacoma Intl",-19
+B6,"JetBlue Airways",2013-01-01,JFK,"John F Kennedy Intl",LGB,"Long Beach",-15
+UA,"United Air Lines Inc.",2013-01-01,EWR,"Newark Liberty Intl",DFW,"Dallas Fort Worth Intl",14
+EV,"ExpressJet Airlines Inc.",2013-01-01,EWR,"Newark Liberty Intl",STL,"Lambert St Louis Intl",116
+B6,"JetBlue Airways",2013-01-01,JFK,"John F Kennedy Intl",SJC,"Norman Y Mineta San Jose Intl",-29
+EV,"ExpressJet Airlines Inc.",2013-01-01,EWR,"Newark Liberty Intl",OMA,"Eppley Afld",338
+WN,"Southwest Airlines Co.",2013-01-01,LGA,"La Guardia",BWI,"Baltimore Washington Intl",8
+MQ,"Envoy Air",2013-01-01,LGA,"La Guardia",CMH,"Port Columbus Intl",18
+UA,"United Air Lines Inc.",2013-01-01,EWR,"Newark Liberty Intl",LAS,"Mc Carran Intl",11
+AA,"American Airlines Inc.",2013-01-01,LGA,"La Guardia",ORD,"Chicago Ohare Intl",3
+AA,"American Airlines Inc.",2013-01-01,EWR,"Newark Liberty Intl",LAX,"Los Angeles Intl",26
+DL,"Delta Air Lines Inc.",2013-01-01,JFK,"John F Kennedy Intl",MSP,"Minneapolis St Paul Intl",-19
+AA,"American Airlines Inc.",2013-01-01,JFK,"John F Kennedy Intl",SEA,"Seattle Tacoma Intl",-2
+9E,"Endeavor Air Inc.",2013-01-01,JFK,"John F Kennedy Intl",DTW,"Detroit Metro Wayne Co",3
+US,"US Airways Inc.",2013-01-01,EWR,"Newark Liberty Intl",CLT,"Charlotte Douglas Intl",14
+AA,"American Airlines Inc.",2013-01-01,LGA,"La Guardia",MIA,"Miami Intl",2
+DL,"Delta Air Lines Inc.",2013-01-01,JFK,"John F Kennedy Intl",SEA,"Seattle Tacoma Intl",-13
+UA,"United Air Lines Inc.",2013-01-01,EWR,"Newark Liberty Intl",DEN,"Denver Intl",9
+EV,"ExpressJet Airlines Inc.",2013-01-01,LGA,"La Guardia",CLE,"Cleveland Hopkins Intl",32
+UA,"United Air Lines Inc.",2013-01-01,EWR,"Newark Liberty Intl",PBI,"Palm Beach Intl",6
+EV,"ExpressJet Airlines Inc.",2013-01-01,EWR,"Newark Liberty Intl",PWM,"Portland Intl Jetport",8
+9E,"Endeavor Air Inc.",2013-01-01,JFK,"John F Kennedy Intl",CHS,"Charleston Afb Intl",-4
+UA,"United Air Lines Inc.",2013-01-01,EWR,"Newark Liberty Intl",SNA,"John Wayne Arpt Orange Co",0
+MQ,"Envoy Air",2013-01-01,EWR,"Newark Liberty Intl",ORD,"Chicago Ohare Intl",7
+UA,"United Air Lines Inc.",2013-01-01,LGA,"La Guardia",ORD,"Chicago Ohare Intl",32
+EV,"ExpressJet Airlines Inc.",2013-01-01,EWR,"Newark Liberty Intl",CVG,"Cincinnati Northern Kentucky Intl",94
+B6,"JetBlue Airways",2013-01-01,JFK,"John F Kennedy Intl",BUF,"Buffalo Niagara Intl",12
+MQ,"Envoy Air",2013-01-01,LGA,"La Guardia",CRW,Yeager,25
+UA,"United Air Lines Inc.",2013-01-01,JFK,"John F Kennedy Intl",SFO,"San Francisco Intl",-3
+EV,"ExpressJet Airlines Inc.",2013-01-01,EWR,"Newark Liberty Intl",BTV,"Burlington Intl",263
+UA,"United Air Lines Inc.",2013-01-01,EWR,"Newark Liberty Intl",FLL,"Fort Lauderdale Hollywood Intl",8
+AA,"American Airlines Inc.",2013-01-01,LGA,"La Guardia",STL,"Lambert St Louis Intl",2
+DL,"Delta Air Lines Inc.",2013-01-01,JFK,"John F Kennedy Intl",BOS,"General Edward Lawrence Logan Intl",-29
+DL,"Delta Air Lines Inc.",2013-01-01,JFK,"John F Kennedy Intl",SJU,NULL,-7
+AA,"American Airlines Inc.",2013-01-01,LGA,"La Guardia",DFW,"Dallas Fort Worth Intl",52
+AA,"American Airlines Inc.",2013-01-01,JFK,"John F Kennedy Intl",SJU,NULL,-19
+AA,"American Airlines Inc.",2013-01-01,JFK,"John F Kennedy Intl",SFO,"San Francisco Intl",78
+FL,"AirTran Airways Corporation",2013-01-01,LGA,"La Guardia",ATL,"Hartsfield Jackson Atlanta Intl",2
+EV,"ExpressJet Airlines Inc.",2013-01-01,JFK,"John F Kennedy Intl",IAD,"Washington Dulles Intl",-9
+9E,"Endeavor Air Inc.",2013-01-01,JFK,"John F Kennedy Intl",MSY,"Louis Armstrong New Orleans Intl",1
+VX,"Virgin America",2013-01-01,JFK,"John F Kennedy Intl",SFO,"San Francisco Intl",9
+US,"US Airways Inc.",2013-01-01,LGA,"La Guardia",DCA,"Ronald Reagan Washington Natl",-14
+MQ,"Envoy Air",2013-01-01,LGA,"La Guardia",CLE,"Cleveland Hopkins Intl",40
+DL,"Delta Air Lines Inc.",2013-01-01,LGA,"La Guardia",ATL,"Hartsfield Jackson Atlanta Intl",-5
+UA,"United Air Lines Inc.",2013-01-01,LGA,"La Guardia",IAH,"George Bush Intercontinental",3
+AA,"American Airlines Inc.",2013-01-01,JFK,"John F Kennedy Intl",LAX,"Los Angeles Intl",127
+B6,"JetBlue Airways",2013-01-01,JFK,"John F Kennedy Intl",MCO,"Orlando Intl",-22
+DL,"Delta Air Lines Inc.",2013-01-01,JFK,"John F Kennedy Intl",ATL,"Hartsfield Jackson Atlanta Intl",0
+WN,"Southwest Airlines Co.",2013-01-01,LGA,"La Guardia",MKE,"General Mitchell Intl",-1
+EV,"ExpressJet Airlines Inc.",2013-01-01,EWR,"Newark Liberty Intl",RIC,"Richmond Intl",-9
+DL,"Delta Air Lines Inc.",2013-01-01,JFK,"John F Kennedy Intl",MIA,"Miami Intl",-47
+B6,"JetBlue Airways",2013-01-01,JFK,"John F Kennedy Intl",OAK,"Metropolitan Oakland Intl",-15
+DL,"Delta Air Lines Inc.",2013-01-01,JFK,"John F Kennedy Intl",MCO,"Orlando Intl",-48
+UA,"United Air Lines Inc.",2013-01-01,EWR,"Newark Liberty Intl",TPA,"Tampa Intl",-11
+DL,"Delta Air Lines Inc.",2013-01-01,JFK,"John F Kennedy Intl",SFO,"San Francisco Intl",10
+DL,"Delta Air Lines Inc.",2013-01-01,JFK,"John F Kennedy Intl",TPA,"Tampa Intl",-33
+B6,"JetBlue Airways",2013-01-01,JFK,"John F Kennedy Intl",SLC,"Salt Lake City Intl",2
+DL,"Delta Air Lines Inc.",2013-01-01,JFK,"John F Kennedy Intl",LAS,"Mc Carran Intl",-12
+EV,"ExpressJet Airlines Inc.",2013-01-01,EWR,"Newark Liberty Intl",BNA,"Nashville Intl",40
+9E,"Endeavor Air Inc.",2013-01-01,JFK,"John F Kennedy Intl",ORD,"Chicago Ohare Intl",19
+US,"US Airways Inc.",2013-01-01,LGA,"La Guardia",CLT,"Charlotte Douglas Intl",15
+MQ,"Envoy Air",2013-01-01,LGA,"La Guardia",RDU,"Raleigh Durham Intl",-5
+DL,"Delta Air Lines Inc.",2013-01-01,LGA,"La Guardia",MCO,"Orlando Intl",-19
+UA,"United Air Lines Inc.",2013-01-01,EWR,"Newark Liberty Intl",PHX,"Phoenix Sky Harbor Intl",-15
+DL,"Delta Air Lines Inc.",2013-01-01,JFK,"John F Kennedy Intl",SLC,"Salt Lake City Intl",-19
+UA,"United Air Lines Inc.",2013-01-01,EWR,"Newark Liberty Intl",SFO,"San Francisco Intl",-4
+AA,"American Airlines Inc.",2013-01-01,LGA,"La Guardia",ORD,"Chicago Ohare Intl",-7
+EV,"ExpressJet Airlines Inc.",2013-01-01,EWR,"Newark Liberty Intl",CLT,"Charlotte Douglas Intl",18
+DL,"Delta Air Lines Inc.",2013-01-01,JFK,"John F Kennedy Intl",PHX,"Phoenix Sky Harbor Intl",-4
+EV,"ExpressJet Airlines Inc.",2013-01-01,EWR,"Newark Liberty Intl",GRR,"Gerald R Ford Intl",54
+B6,"JetBlue Airways",2013-01-01,JFK,"John F Kennedy Intl",SMF,"Sacramento Intl",5
+EV,"ExpressJet Airlines Inc.",2013-01-01,LGA,"La Guardia",IAD,"Washington Dulles Intl",-13
+DL,"Delta Air Lines Inc.",2013-01-01,JFK,"John F Kennedy Intl",LAX,"Los Angeles Intl",21
+AA,"American Airlines Inc.",2013-01-01,EWR,"Newark Liberty Intl",DFW,"Dallas Fort Worth Intl",43
+9E,"Endeavor Air Inc.",2013-01-01,JFK,"John F Kennedy Intl",RDU,"Raleigh Durham Intl",-18
+UA,"United Air Lines Inc.",2013-01-01,EWR,"Newark Liberty Intl",BQN,NULL,-4
+DL,"Delta Air Lines Inc.",2013-01-01,JFK,"John F Kennedy Intl",SAN,"San Diego Intl",81
+MQ,"Envoy Air",2013-01-01,JFK,"John F Kennedy Intl",BNA,"Nashville Intl",151
+EV,"ExpressJet Airlines Inc.",2013-01-01,EWR,"Newark Liberty Intl",OMA,"Eppley Afld",40
+AA,"American Airlines Inc.",2013-01-01,JFK,"John F Kennedy Intl",LAX,"Los Angeles Intl",25
+EV,"ExpressJet Airlines Inc.",2013-01-01,EWR,"Newark Liberty Intl",RIC,"Richmond Intl",166
+9E,"Endeavor Air Inc.",2013-01-01,JFK,"John F Kennedy Intl",DFW,"Dallas Fort Worth Intl",NULL
+AA,"American Airlines Inc.",2013-01-01,JFK,"John F Kennedy Intl",TPA,"Tampa Intl",-2
+UA,"United Air Lines Inc.",2013-01-01,EWR,"Newark Liberty Intl",BOS,"General Edward Lawrence Logan Intl",12
+B6,"JetBlue Airways",2013-01-01,LGA,"La Guardia",FLL,"Fort Lauderdale Hollywood Intl",-10
+MQ,"Envoy Air",2013-01-01,JFK,"John F Kennedy Intl",DCA,"Ronald Reagan Washington Natl",174
+9E,"Endeavor Air Inc.",2013-01-01,JFK,"John F Kennedy Intl",JAX,"Jacksonville Intl",16
+EV,"ExpressJet Airlines Inc.",2013-01-01,EWR,"Newark Liberty Intl",CHS,"Charleston Afb Intl",14
+B6,"JetBlue Airways",2013-01-01,JFK,"John F Kennedy Intl",LAS,"Mc Carran Intl",44
+EV,"ExpressJet Airlines Inc.",2013-01-01,EWR,"Newark Liberty Intl",TUL,"Tulsa Intl",NULL
+VX,"Virgin America",2013-01-01,JFK,"John F Kennedy Intl",LAX,"Los Angeles Intl",-11
+UA,"United Air Lines Inc.",2013-01-01,EWR,"Newark Liberty Intl",SEA,"Seattle Tacoma Intl",6
+9E,"Endeavor Air Inc.",2013-01-01,JFK,"John F Kennedy Intl",PIT,"Pittsburgh Intl",-6
+9E,"Endeavor Air Inc.",2013-01-01,JFK,"John F Kennedy Intl",BWI,"Baltimore Washington Intl",-26
+B6,"JetBlue Airways",2013-01-01,JFK,"John F Kennedy Intl",SFO,"San Francisco Intl",-22
+UA,"United Air Lines Inc.",2013-01-01,EWR,"Newark Liberty Intl",DFW,"Dallas Fort Worth Intl",11
+DL,"Delta Air Lines Inc.",2013-01-01,JFK,"John F Kennedy Intl",SAT,"San Antonio Intl",25
+UA,"United Air Lines Inc.",2013-01-01,EWR,"Newark Liberty Intl",IAH,"George Bush Intercontinental",3
+EV,"ExpressJet Airlines Inc.",2013-01-01,EWR,"Newark Liberty Intl",TYS,"Mc Ghee Tyson",75
+9E,"Endeavor Air Inc.",2013-01-01,JFK,"John F Kennedy Intl",PHL,"Philadelphia Intl",-16
+AA,"American Airlines Inc.",2013-01-01,LGA,"La Guardia",MIA,"Miami Intl",-4
+UA,"United Air Lines Inc.",2013-01-01,EWR,"Newark Liberty Intl",MIA,"Miami Intl",-9
+EV,"ExpressJet Airlines Inc.",2013-01-01,EWR,"Newark Liberty Intl",SAV,"Savannah Hilton Head Intl",222
+UA,"United Air Lines Inc.",2013-01-01,LGA,"La Guardia",ORD,"Chicago Ohare Intl",2
+MQ,"Envoy Air",2013-01-01,LGA,"La Guardia",MSP,"Minneapolis St Paul Intl",83
+MQ,"Envoy Air",2013-01-01,LGA,"La Guardia",CMH,"Port Columbus Intl",-4
+EV,"ExpressJet Airlines Inc.",2013-01-01,EWR,"Newark Liberty Intl",PIT,"Pittsburgh Intl",123
+UA,"United Air Lines Inc.",2013-01-01,EWR,"Newark Liberty Intl",CLE,"Cleveland Hopkins Intl",-4
+AA,"American Airlines Inc.",2013-01-01,JFK,"John F Kennedy Intl",BOS,"General Edward Lawrence Logan Intl",-10
+9E,"Endeavor Air Inc.",2013-01-01,JFK,"John F Kennedy Intl",BUF,"Buffalo Niagara Intl",5
+EV,"ExpressJet Airlines Inc.",2013-01-01,EWR,"Newark Liberty Intl",OKC,"Will Rogers World",NULL
+MQ,"Envoy Air",2013-01-01,JFK,"John F Kennedy Intl",CMH,"Port Columbus Intl",50
+9E,"Endeavor Air Inc.",2013-01-01,JFK,"John F Kennedy Intl",CLE,"Cleveland Hopkins Intl",47
+B6,"JetBlue Airways",2013-01-01,JFK,"John F Kennedy Intl",FLL,"Fort Lauderdale Hollywood Intl",-3
+UA,"United Air Lines Inc.",2013-01-01,EWR,"Newark Liberty Intl",RSW,"Southwest Florida Intl",-10
+FL,"AirTran Airways Corporation",2013-01-01,LGA,"La Guardia",CAK,"Akron Canton Regional Airport",-7
+B6,"JetBlue Airways",2013-01-01,JFK,"John F Kennedy Intl",AUS,"Austin Bergstrom Intl",10
+9E,"Endeavor Air Inc.",2013-01-01,JFK,"John F Kennedy Intl",CVG,"Cincinnati Northern Kentucky Intl",34
+B6,"JetBlue Airways",2013-01-01,JFK,"John F Kennedy Intl",BUR,"Bob Hope",91
+DL,"Delta Air Lines Inc.",2013-01-01,JFK,"John F Kennedy Intl",FLL,"Fort Lauderdale Hollywood Intl",-14
+UA,"United Air Lines Inc.",2013-01-01,EWR,"Newark Liberty Intl",AUS,"Austin Bergstrom Intl",7
+EV,"ExpressJet Airlines Inc.",2013-01-01,EWR,"Newark Liberty Intl",MKE,"General Mitchell Intl",24
+B6,"JetBlue Airways",2013-01-01,JFK,"John F Kennedy Intl",PBI,"Palm Beach Intl",50
+WN,"Southwest Airlines Co.",2013-01-01,EWR,"Newark Liberty Intl",MDW,"Chicago Midway Intl",45
+EV,"ExpressJet Airlines Inc.",2013-01-01,EWR,"Newark Liberty Intl",MHT,"Manchester Regional Airport",-7
+AA,"American Airlines Inc.",2013-01-01,LGA,"La Guardia",ORD,"Chicago Ohare Intl",-35
+B6,"JetBlue Airways",2013-01-01,JFK,"John F Kennedy Intl",HOU,"William P Hobby",12
+B6,"JetBlue Airways",2013-01-01,JFK,"John F Kennedy Intl",MSY,"Louis Armstrong New Orleans Intl",10
+UA,"United Air Lines Inc.",2013-01-01,EWR,"Newark Liberty Intl",IAH,"George Bush Intercontinental",9
+UA,"United Air Lines Inc.",2013-01-01,EWR,"Newark Liberty Intl",BOS,"General Edward Lawrence Logan Intl",-17
+UA,"United Air Lines Inc.",2013-01-01,EWR,"Newark Liberty Intl",LAX,"Los Angeles Intl",-28
+EV,"ExpressJet Airlines Inc.",2013-01-01,EWR,"Newark Liberty Intl",RDU,"Raleigh Durham Intl",34
+B6,"JetBlue Airways",2013-01-01,JFK,"John F Kennedy Intl",JAX,"Jacksonville Intl",3
+9E,"Endeavor Air Inc.",2013-01-01,JFK,"John F Kennedy Intl",DCA,"Ronald Reagan Washington Natl",-29
+UA,"United Air Lines Inc.",2013-01-01,EWR,"Newark Liberty Intl",MCO,"Orlando Intl",-28
+MQ,"Envoy Air",2013-01-01,JFK,"John F Kennedy Intl",RDU,"Raleigh Durham Intl",45
+B6,"JetBlue Airways",2013-01-01,JFK,"John F Kennedy Intl",PDX,"Portland Intl",-1
+B6,"JetBlue Airways",2013-01-01,JFK,"John F Kennedy Intl",RSW,"Southwest Florida Intl",-2
+MQ,"Envoy Air",2013-01-01,LGA,"La Guardia",DTW,"Detroit Metro Wayne Co",4
+UA,"United Air Lines Inc.",2013-01-01,EWR,"Newark Liberty Intl",PBI,"Palm Beach Intl",-5
+EV,"ExpressJet Airlines Inc.",2013-01-01,EWR,"Newark Liberty Intl",ALB,"Albany Intl",44
+EV,"ExpressJet Airlines Inc.",2013-01-01,EWR,"Newark Liberty Intl",IAD,"Washington Dulles Intl",61
+B6,"JetBlue Airways",2013-01-01,LGA,"La Guardia",MCO,"Orlando Intl",-6
+MQ,"Envoy Air",2013-01-01,LGA,"La Guardia",RDU,"Raleigh Durham Intl",5
+MQ,"Envoy Air",2013-01-01,EWR,"Newark Liberty Intl",ORD,"Chicago Ohare Intl",17
+EV,"ExpressJet Airlines Inc.",2013-01-01,EWR,"Newark Liberty Intl",SDF,"Louisville International Airport",25
+WN,"Southwest Airlines Co.",2013-01-01,LGA,"La Guardia",MDW,"Chicago Midway Intl",5
+UA,"United Air Lines Inc.",2013-01-01,EWR,"Newark Liberty Intl",TPA,"Tampa Intl",9
+MQ,"Envoy Air",2013-01-01,LGA,"La Guardia",CLT,"Charlotte Douglas Intl",17
+B6,"JetBlue Airways",2013-01-01,JFK,"John F Kennedy Intl",BOS,"General Edward Lawrence Logan Intl",-6
+UA,"United Air Lines Inc.",2013-01-01,EWR,"Newark Liberty Intl",SJU,NULL,-12
+DL,"Delta Air Lines Inc.",2013-01-01,JFK,"John F Kennedy Intl",LAS,"Mc Carran Intl",-32
+B6,"JetBlue Airways",2013-01-01,JFK,"John F Kennedy Intl",LAX,"Los Angeles Intl",-5
+UA,"United Air Lines Inc.",2013-01-01,EWR,"Newark Liberty Intl",SFO,"San Francisco Intl",-14
+B6,"JetBlue Airways",2013-01-01,EWR,"Newark Liberty Intl",MCO,"Orlando Intl",-6
+MQ,"Envoy Air",2013-01-01,LGA,"La Guardia",ATL,"Hartsfield Jackson Atlanta Intl",55
+EV,"ExpressJet Airlines Inc.",2013-01-01,EWR,"Newark Liberty Intl",RIC,"Richmond Intl",17
+9E,"Endeavor Air Inc.",2013-01-01,JFK,"John F Kennedy Intl",CVG,"Cincinnati Northern Kentucky Intl",250
+EV,"ExpressJet Airlines Inc.",2013-01-01,EWR,"Newark Liberty Intl",PVD,"Theodore Francis Green State",-10
+EV,"ExpressJet Airlines Inc.",2013-01-01,EWR,"Newark Liberty Intl",DSM,"Des Moines Intl",142
+B6,"JetBlue Airways",2013-01-01,LGA,"La Guardia",FLL,"Fort Lauderdale Hollywood Intl",-2
+B6,"JetBlue Airways",2013-01-01,EWR,"Newark Liberty Intl",MCO,"Orlando Intl",43
+MQ,"Envoy Air",2013-01-01,LGA,"La Guardia",BNA,"Nashville Intl",22
+AA,"American Airlines Inc.",2013-01-01,JFK,"John F Kennedy Intl",LAX,"Los Angeles Intl",-24
+MQ,"Envoy Air",2013-01-01,JFK,"John F Kennedy Intl",DCA,"Ronald Reagan Washington Natl",3
+B6,"JetBlue Airways",2013-01-01,JFK,"John F Kennedy Intl",DEN,"Denver Intl",-9
+UA,"United Air Lines Inc.",2013-01-01,EWR,"Newark Liberty Intl",FLL,"Fort Lauderdale Hollywood Intl",28
+B6,"JetBlue Airways",2013-01-01,EWR,"Newark Liberty Intl",FLL,"Fort Lauderdale Hollywood Intl",-14
+B6,"JetBlue Airways",2013-01-01,JFK,"John F Kennedy Intl",SJU,NULL,-14
+B6,"JetBlue Airways",2013-01-01,JFK,"John F Kennedy Intl",MCO,"Orlando Intl",2
+EV,"ExpressJet Airlines Inc.",2013-01-01,EWR,"Newark Liberty Intl",BWI,"Baltimore Washington Intl",-13
+AA,"American Airlines Inc.",2013-01-01,EWR,"Newark Liberty Intl",MIA,"Miami Intl",246
+B6,"JetBlue Airways",2013-01-01,JFK,"John F Kennedy Intl",PBI,"Palm Beach Intl",21
+B6,"JetBlue Airways",2013-01-01,JFK,"John F Kennedy Intl",RDU,"Raleigh Durham Intl",23
+B6,"JetBlue Airways",2013-01-01,JFK,"John F Kennedy Intl",BUF,"Buffalo Niagara Intl",28
+B6,"JetBlue Airways",2013-01-01,JFK,"John F Kennedy Intl",SJU,NULL,-26
+B6,"JetBlue Airways",2013-01-01,JFK,"John F Kennedy Intl",TPA,"Tampa Intl",73
+EV,"ExpressJet Airlines Inc.",2013-01-01,EWR,"Newark Liberty Intl",BUF,"Buffalo Niagara Intl",127
+EV,"ExpressJet Airlines Inc.",2013-01-01,EWR,"Newark Liberty Intl",PWM,"Portland Intl Jetport",8
+B6,"JetBlue Airways",2013-01-01,JFK,"John F Kennedy Intl",FLL,"Fort Lauderdale Hollywood Intl",49
+B6,"JetBlue Airways",2013-01-01,JFK,"John F Kennedy Intl",PWM,"Portland Intl Jetport",-16
+B6,"JetBlue Airways",2013-01-01,JFK,"John F Kennedy Intl",BOS,"General Edward Lawrence Logan Intl",-7
+EV,"ExpressJet Airlines Inc.",2013-01-01,EWR,"Newark Liberty Intl",BDL,"Bradley Intl",49
+B6,"JetBlue Airways",2013-01-01,JFK,"John F Kennedy Intl",ROC,"Greater Rochester Intl",23
+B6,"JetBlue Airways",2013-01-01,JFK,"John F Kennedy Intl",BTV,"Burlington Intl",35
+B6,"JetBlue Airways",2013-01-01,JFK,"John F Kennedy Intl",BUF,"Buffalo Niagara Intl",9
+EV,"ExpressJet Airlines Inc.",2013-01-01,EWR,"Newark Liberty Intl",DCA,"Ronald Reagan Washington Natl",191
+EV,"ExpressJet Airlines Inc.",2013-01-01,EWR,"Newark Liberty Intl",BTV,"Burlington Intl",69
+B6,"JetBlue Airways",2013-01-01,JFK,"John F Kennedy Intl",LAS,"Mc Carran Intl",73
+B6,"JetBlue Airways",2013-01-01,JFK,"John F Kennedy Intl",SYR,"Syracuse Hancock Intl",33
+EV,"ExpressJet Airlines Inc.",2013-01-01,EWR,"Newark Liberty Intl",MCI,"Kansas City Intl",456
+B6,"JetBlue Airways",2013-01-01,JFK,"John F Kennedy Intl",PSE,NULL,-20
+B6,"JetBlue Airways",2013-01-01,JFK,"John F Kennedy Intl",SJU,NULL,-24
+B6,"JetBlue Airways",2013-01-01,JFK,"John F Kennedy Intl",BQN,NULL,-12
+EV,"ExpressJet Airlines Inc.",2013-01-01,EWR,"Newark Liberty Intl",RDU,"Raleigh Durham Intl",NULL
+AA,"American Airlines Inc.",2013-01-01,LGA,"La Guardia",DFW,"Dallas Fort Worth Intl",NULL
+AA,"American Airlines Inc.",2013-01-01,LGA,"La Guardia",MIA,"Miami Intl",NULL
+B6,"JetBlue Airways",2013-01-01,JFK,"John F Kennedy Intl",FLL,"Fort Lauderdale Hollywood Intl",NULL
+B6,"JetBlue Airways",2013-01-02,JFK,"John F Kennedy Intl",SJU,NULL,36
+B6,"JetBlue Airways",2013-01-02,JFK,"John F Kennedy Intl",SYR,"Syracuse Hancock Intl",154
+US,"US Airways Inc.",2013-01-02,EWR,"Newark Liberty Intl",CLT,"Charlotte Douglas Intl",13
+UA,"United Air Lines Inc.",2013-01-02,EWR,"Newark Liberty Intl",IAH,"George Bush Intercontinental",-10
+AA,"American Airlines Inc.",2013-01-02,JFK,"John F Kennedy Intl",MIA,"Miami Intl",-19
+UA,"United Air Lines Inc.",2013-01-02,LGA,"La Guardia",IAH,"George Bush Intercontinental",12
+B6,"JetBlue Airways",2013-01-02,JFK,"John F Kennedy Intl",BQN,NULL,-23
+B6,"JetBlue Airways",2013-01-02,JFK,"John F Kennedy Intl",FLL,"Fort Lauderdale Hollywood Intl",-16
+B6,"JetBlue Airways",2013-01-02,JFK,"John F Kennedy Intl",PBI,"Palm Beach Intl",-10
+B6,"JetBlue Airways",2013-01-02,LGA,"La Guardia",FLL,"Fort Lauderdale Hollywood Intl",11
+AA,"American Airlines Inc.",2013-01-02,LGA,"La Guardia",DFW,"Dallas Fort Worth Intl",21
+B6,"JetBlue Airways",2013-01-02,JFK,"John F Kennedy Intl",TPA,"Tampa Intl",0
+DL,"Delta Air Lines Inc.",2013-01-02,LGA,"La Guardia",DTW,"Detroit Metro Wayne Co",-7
+EV,"ExpressJet Airlines Inc.",2013-01-02,LGA,"La Guardia",IAD,"Washington Dulles Intl",1
+DL,"Delta Air Lines Inc.",2013-01-02,LGA,"La Guardia",ATL,"Hartsfield Jackson Atlanta Intl",0
+DL,"Delta Air Lines Inc.",2013-01-02,LGA,"La Guardia",CVG,"Cincinnati Northern Kentucky Intl",9
+FL,"AirTran Airways Corporation",2013-01-02,LGA,"La Guardia",ATL,"Hartsfield Jackson Atlanta Intl",23
+UA,"United Air Lines Inc.",2013-01-02,JFK,"John F Kennedy Intl",SFO,"San Francisco Intl",-15
+UA,"United Air Lines Inc.",2013-01-02,EWR,"Newark Liberty Intl",LAS,"Mc Carran Intl",-52
+UA,"United Air Lines Inc.",2013-01-02,EWR,"Newark Liberty Intl",MIA,"Miami Intl",-1
+EV,"ExpressJet Airlines Inc.",2013-01-02,EWR,"Newark Liberty Intl",CMH,"Port Columbus Intl",25
+EV,"ExpressJet Airlines Inc.",2013-01-02,EWR,"Newark Liberty Intl",MSP,"Minneapolis St Paul Intl",-27
+9E,"Endeavor Air Inc.",2013-01-02,EWR,"Newark Liberty Intl",CVG,"Cincinnati Northern Kentucky Intl",4
+B6,"JetBlue Airways",2013-01-02,JFK,"John F Kennedy Intl",MCO,"Orlando Intl",0
+WN,"Southwest Airlines Co.",2013-01-02,LGA,"La Guardia",MDW,"Chicago Midway Intl",12
+MQ,"Envoy Air",2013-01-02,LGA,"La Guardia",DTW,"Detroit Metro Wayne Co",-17
+UA,"United Air Lines Inc.",2013-01-02,LGA,"La Guardia",ORD,"Chicago Ohare Intl",12
+US,"US Airways Inc.",2013-01-02,LGA,"La Guardia",PHL,"Philadelphia Intl",-13
+AA,"American Airlines Inc.",2013-01-02,LGA,"La Guardia",ORD,"Chicago Ohare Intl",-12
+UA,"United Air Lines Inc.",2013-01-02,EWR,"Newark Liberty Intl",LAX,"Los Angeles Intl",-4
+UA,"United Air Lines Inc.",2013-01-02,EWR,"Newark Liberty Intl",SFO,"San Francisco Intl",-44
+DL,"Delta Air Lines Inc.",2013-01-02,JFK,"John F Kennedy Intl",ATL,"Hartsfield Jackson Atlanta Intl",1
+DL,"Delta Air Lines Inc.",2013-01-02,LGA,"La Guardia",MSP,"Minneapolis St Paul Intl",5
+AA,"American Airlines Inc.",2013-01-02,EWR,"Newark Liberty Intl",MIA,"Miami Intl",-11
+B6,"JetBlue Airways",2013-01-02,EWR,"Newark Liberty Intl",FLL,"Fort Lauderdale Hollywood Intl",15
+EV,"ExpressJet Airlines Inc.",2013-01-02,LGA,"La Guardia",MEM,"Memphis Intl",19
+DL,"Delta Air Lines Inc.",2013-01-02,EWR,"Newark Liberty Intl",ATL,"Hartsfield Jackson Atlanta Intl",10
+WN,"Southwest Airlines Co.",2013-01-02,EWR,"Newark Liberty Intl",MDW,"Chicago Midway Intl",31
+B6,"JetBlue Airways",2013-01-02,EWR,"Newark Liberty Intl",PBI,"Palm Beach Intl",11
+B6,"JetBlue Airways",2013-01-02,JFK,"John F Kennedy Intl",SJU,NULL,-7
+UA,"United Air Lines Inc.",2013-01-02,JFK,"John F Kennedy Intl",LAX,"Los Angeles Intl",44
+US,"US Airways Inc.",2013-01-02,JFK,"John F Kennedy Intl",CLT,"Charlotte Douglas Intl",20
+AA,"American Airlines Inc.",2013-01-02,LGA,"La Guardia",MIA,"Miami Intl",-3
+MQ,"Envoy Air",2013-01-02,LGA,"La Guardia",MSP,"Minneapolis St Paul Intl",-10
+MQ,"Envoy Air",2013-01-02,LGA,"La Guardia",ATL,"Hartsfield Jackson Atlanta Intl",43
+MQ,"Envoy Air",2013-01-02,LGA,"La Guardia",CLT,"Charlotte Douglas Intl",3
+UA,"United Air Lines Inc.",2013-01-02,LGA,"La Guardia",IAH,"George Bush Intercontinental",1
+UA,"United Air Lines Inc.",2013-01-02,EWR,"Newark Liberty Intl",DFW,"Dallas Fort Worth Intl",8
+US,"US Airways Inc.",2013-01-02,EWR,"Newark Liberty Intl",CLT,"Charlotte Douglas Intl",17
+DL,"Delta Air Lines Inc.",2013-01-02,LGA,"La Guardia",TPA,"Tampa Intl",3
+WN,"Southwest Airlines Co.",2013-01-02,EWR,"Newark Liberty Intl",BWI,"Baltimore Washington Intl",15
+EV,"ExpressJet Airlines Inc.",2013-01-02,EWR,"Newark Liberty Intl",IAD,"Washington Dulles Intl",11
+EV,"ExpressJet Airlines Inc.",2013-01-02,EWR,"Newark Liberty Intl",CVG,"Cincinnati Northern Kentucky Intl",17
+US,"US Airways Inc.",2013-01-02,EWR,"Newark Liberty Intl",PHX,"Phoenix Sky Harbor Intl",-4
+B6,"JetBlue Airways",2013-01-02,JFK,"John F Kennedy Intl",RSW,"Southwest Florida Intl",27
+DL,"Delta Air Lines Inc.",2013-01-02,LGA,"La Guardia",FLL,"Fort Lauderdale Hollywood Intl",6
+WN,"Southwest Airlines Co.",2013-01-02,LGA,"La Guardia",BWI,"Baltimore Washington Intl",-13
+EV,"ExpressJet Airlines Inc.",2013-01-02,EWR,"Newark Liberty Intl",RDU,"Raleigh Durham Intl",0
+UA,"United Air Lines Inc.",2013-01-02,EWR,"Newark Liberty Intl",LAX,"Los Angeles Intl",1
+AA,"American Airlines Inc.",2013-01-02,LGA,"La Guardia",ORD,"Chicago Ohare Intl",-4
+UA,"United Air Lines Inc.",2013-01-02,EWR,"Newark Liberty Intl",AUS,"Austin Bergstrom Intl",17
+UA,"United Air Lines Inc.",2013-01-02,EWR,"Newark Liberty Intl",PHX,"Phoenix Sky Harbor Intl",-9
+EV,"ExpressJet Airlines Inc.",2013-01-02,EWR,"Newark Liberty Intl",BNA,"Nashville Intl",23
+US,"US Airways Inc.",2013-01-02,JFK,"John F Kennedy Intl",PHX,"Phoenix Sky Harbor Intl",-6
+UA,"United Air Lines Inc.",2013-01-02,EWR,"Newark Liberty Intl",CLE,"Cleveland Hopkins Intl",6
+B6,"JetBlue Airways",2013-01-02,JFK,"John F Kennedy Intl",BOS,"General Edward Lawrence Logan Intl",-17
+UA,"United Air Lines Inc.",2013-01-02,EWR,"Newark Liberty Intl",PBI,"Palm Beach Intl",-15
+EV,"ExpressJet Airlines Inc.",2013-01-02,EWR,"Newark Liberty Intl",ATL,"Hartsfield Jackson Atlanta Intl",9
+AA,"American Airlines Inc.",2013-01-02,LGA,"La Guardia",DFW,"Dallas Fort Worth Intl",33
+B6,"JetBlue Airways",2013-01-02,JFK,"John F Kennedy Intl",BUF,"Buffalo Niagara Intl",-6
+B6,"JetBlue Airways",2013-01-02,LGA,"La Guardia",MCO,"Orlando Intl",-5
+US,"US Airways Inc.",2013-01-02,LGA,"La Guardia",CLT,"Charlotte Douglas Intl",13
+UA,"United Air Lines Inc.",2013-01-02,LGA,"La Guardia",DEN,"Denver Intl",-27
+UA,"United Air Lines Inc.",2013-01-02,EWR,"Newark Liberty Intl",BOS,"General Edward Lawrence Logan Intl",-31
+US,"US Airways Inc.",2013-01-02,EWR,"Newark Liberty Intl",CLT,"Charlotte Douglas Intl",15
+DL,"Delta Air Lines Inc.",2013-01-02,JFK,"John F Kennedy Intl",SLC,"Salt Lake City Intl",-39
+UA,"United Air Lines Inc.",2013-01-02,EWR,"Newark Liberty Intl",MCO,"Orlando Intl",-12
+DL,"Delta Air Lines Inc.",2013-01-02,JFK,"John F Kennedy Intl",SFO,"San Francisco Intl",-59
+UA,"United Air Lines Inc.",2013-01-02,EWR,"Newark Liberty Intl",FLL,"Fort Lauderdale Hollywood Intl",8
+AA,"American Airlines Inc.",2013-01-02,JFK,"John F Kennedy Intl",MCO,"Orlando Intl",-4
+B6,"JetBlue Airways",2013-01-02,JFK,"John F Kennedy Intl",LAS,"Mc Carran Intl",-13
+DL,"Delta Air Lines Inc.",2013-01-02,JFK,"John F Kennedy Intl",LAX,"Los Angeles Intl",-3
+DL,"Delta Air Lines Inc.",2013-01-02,LGA,"La Guardia",PBI,"Palm Beach Intl",-4
+DL,"Delta Air Lines Inc.",2013-01-02,LGA,"La Guardia",MIA,"Miami Intl",-5
+B6,"JetBlue Airways",2013-01-02,JFK,"John F Kennedy Intl",FLL,"Fort Lauderdale Hollywood Intl",6
+MQ,"Envoy Air",2013-01-02,LGA,"La Guardia",XNA,"NW Arkansas Regional",34
+US,"US Airways Inc.",2013-01-02,LGA,"La Guardia",DCA,"Ronald Reagan Washington Natl",-3
+VX,"Virgin America",2013-01-02,JFK,"John F Kennedy Intl",LAX,"Los Angeles Intl",-26
+EV,"ExpressJet Airlines Inc.",2013-01-02,EWR,"Newark Liberty Intl",CLT,"Charlotte Douglas Intl",37
+AA,"American Airlines Inc.",2013-01-02,LGA,"La Guardia",ORD,"Chicago Ohare Intl",1
+AA,"American Airlines Inc.",2013-01-02,LGA,"La Guardia",MIA,"Miami Intl",2
+DL,"Delta Air Lines Inc.",2013-01-02,LGA,"La Guardia",MSY,"Louis Armstrong New Orleans Intl",18
+UA,"United Air Lines Inc.",2013-01-02,EWR,"Newark Liberty Intl",TPA,"Tampa Intl",46
+B6,"JetBlue Airways",2013-01-02,JFK,"John F Kennedy Intl",MSY,"Louis Armstrong New Orleans Intl",26
+DL,"Delta Air Lines Inc.",2013-01-02,LGA,"La Guardia",DTW,"Detroit Metro Wayne Co",-5
+UA,"United Air Lines Inc.",2013-01-02,EWR,"Newark Liberty Intl",SJU,NULL,-12
+AA,"American Airlines Inc.",2013-01-02,JFK,"John F Kennedy Intl",SJU,NULL,29
+MQ,"Envoy Air",2013-01-02,EWR,"Newark Liberty Intl",ORD,"Chicago Ohare Intl",-23
+AA,"American Airlines Inc.",2013-01-02,JFK,"John F Kennedy Intl",MIA,"Miami Intl",-23
+B6,"JetBlue Airways",2013-01-02,JFK,"John F Kennedy Intl",LAX,"Los Angeles Intl",-8
+DL,"Delta Air Lines Inc.",2013-01-02,LGA,"La Guardia",ATL,"Hartsfield Jackson Atlanta Intl",4
+UA,"United Air Lines Inc.",2013-01-02,LGA,"La Guardia",ORD,"Chicago Ohare Intl",12
+AA,"American Airlines Inc.",2013-01-02,JFK,"John F Kennedy Intl",FLL,"Fort Lauderdale Hollywood Intl",-9
+B6,"JetBlue Airways",2013-01-02,JFK,"John F Kennedy Intl",MCO,"Orlando Intl",1
+UA,"United Air Lines Inc.",2013-01-02,JFK,"John F Kennedy Intl",SFO,"San Francisco Intl",-25
+UA,"United Air Lines Inc.",2013-01-02,EWR,"Newark Liberty Intl",RSW,"Southwest Florida Intl",-2
+MQ,"Envoy Air",2013-01-02,EWR,"Newark Liberty Intl",ORD,"Chicago Ohare Intl",90
+AS,"Alaska Airlines Inc.",2013-01-02,EWR,"Newark Liberty Intl",SEA,"Seattle Tacoma Intl",-41
+UA,"United Air Lines Inc.",2013-01-02,EWR,"Newark Liberty Intl",ORD,"Chicago Ohare Intl",-3
+VX,"Virgin America",2013-01-02,JFK,"John F Kennedy Intl",SFO,"San Francisco Intl",-36
+UA,"United Air Lines Inc.",2013-01-02,EWR,"Newark Liberty Intl",SNA,"John Wayne Arpt Orange Co",-4
+UA,"United Air Lines Inc.",2013-01-02,EWR,"Newark Liberty Intl",DEN,"Denver Intl",9
+FL,"AirTran Airways Corporation",2013-01-02,LGA,"La Guardia",MKE,"General Mitchell Intl",6
+B6,"JetBlue Airways",2013-01-02,LGA,"La Guardia",RSW,"Southwest Florida Intl",8
+DL,"Delta Air Lines Inc.",2013-01-02,JFK,"John F Kennedy Intl",SEA,"Seattle Tacoma Intl",-45
+B6,"JetBlue Airways",2013-01-02,JFK,"John F Kennedy Intl",SJU,NULL,0
+AA,"American Airlines Inc.",2013-01-02,JFK,"John F Kennedy Intl",LAX,"Los Angeles Intl",5
+B6,"JetBlue Airways",2013-01-02,JFK,"John F Kennedy Intl",SYR,"Syracuse Hancock Intl",24
+UA,"United Air Lines Inc.",2013-01-02,LGA,"La Guardia",IAH,"George Bush Intercontinental",7
+B6,"JetBlue Airways",2013-01-02,JFK,"John F Kennedy Intl",ROC,"Greater Rochester Intl",4
+B6,"JetBlue Airways",2013-01-02,JFK,"John F Kennedy Intl",SFO,"San Francisco Intl",-30
+WN,"Southwest Airlines Co.",2013-01-02,EWR,"Newark Liberty Intl",HOU,"William P Hobby",20
+UA,"United Air Lines Inc.",2013-01-02,EWR,"Newark Liberty Intl",BOS,"General Edward Lawrence Logan Intl",-9
+B6,"JetBlue Airways",2013-01-02,LGA,"La Guardia",TPA,"Tampa Intl",6
+AA,"American Airlines Inc.",2013-01-02,LGA,"La Guardia",ORD,"Chicago Ohare Intl",-4
+AA,"American Airlines Inc.",2013-01-02,JFK,"John F Kennedy Intl",SFO,"San Francisco Intl",-9
+UA,"United Air Lines Inc.",2013-01-02,EWR,"Newark Liberty Intl",MCO,"Orlando Intl",2
+WN,"Southwest Airlines Co.",2013-01-02,LGA,"La Guardia",DEN,"Denver Intl",10
+EV,"ExpressJet Airlines Inc.",2013-01-02,EWR,"Newark Liberty Intl",GSO,"Piedmont Triad",12
+UA,"United Air Lines Inc.",2013-01-02,LGA,"La Guardia",DEN,"Denver Intl",-14
+9E,"Endeavor Air Inc.",2013-01-02,JFK,"John F Kennedy Intl",PHL,"Philadelphia Intl",1
+DL,"Delta Air Lines Inc.",2013-01-02,EWR,"Newark Liberty Intl",ATL,"Hartsfield Jackson Atlanta Intl",10
+AA,"American Airlines Inc.",2013-01-02,LGA,"La Guardia",DFW,"Dallas Fort Worth Intl",32
+UA,"United Air Lines Inc.",2013-01-02,EWR,"Newark Liberty Intl",SFO,"San Francisco Intl",-11
+B6,"JetBlue Airways",2013-01-02,JFK,"John F Kennedy Intl",SRQ,"Sarasota Bradenton Intl",-3
+UA,"United Air Lines Inc.",2013-01-02,EWR,"Newark Liberty Intl",PBI,"Palm Beach Intl",28
+9E,"Endeavor Air Inc.",2013-01-02,JFK,"John F Kennedy Intl",PIT,"Pittsburgh Intl",-3
+EV,"ExpressJet Airlines Inc.",2013-01-02,EWR,"Newark Liberty Intl",GSP,"Greenville-Spartanburg International",-3
+EV,"ExpressJet Airlines Inc.",2013-01-02,EWR,"Newark Liberty Intl",BTV,"Burlington Intl",-6
+UA,"United Air Lines Inc.",2013-01-02,EWR,"Newark Liberty Intl",IAH,"George Bush Intercontinental",13
+EV,"ExpressJet Airlines Inc.",2013-01-02,EWR,"Newark Liberty Intl",DCA,"Ronald Reagan Washington Natl",75
+DL,"Delta Air Lines Inc.",2013-01-02,LGA,"La Guardia",MCO,"Orlando Intl",-4
+B6,"JetBlue Airways",2013-01-02,EWR,"Newark Liberty Intl",MCO,"Orlando Intl",6
+B6,"JetBlue Airways",2013-01-02,JFK,"John F Kennedy Intl",FLL,"Fort Lauderdale Hollywood Intl",-18
+DL,"Delta Air Lines Inc.",2013-01-02,LGA,"La Guardia",ATL,"Hartsfield Jackson Atlanta Intl",-2
+DL,"Delta Air Lines Inc.",2013-01-02,JFK,"John F Kennedy Intl",MIA,"Miami Intl",-29
+US,"US Airways Inc.",2013-01-02,LGA,"La Guardia",CLT,"Charlotte Douglas Intl",19
+AA,"American Airlines Inc.",2013-01-02,LGA,"La Guardia",MIA,"Miami Intl",-18
+B6,"JetBlue Airways",2013-01-02,EWR,"Newark Liberty Intl",BOS,"General Edward Lawrence Logan Intl",-18
+DL,"Delta Air Lines Inc.",2013-01-02,JFK,"John F Kennedy Intl",MCO,"Orlando Intl",-14
+AA,"American Airlines Inc.",2013-01-02,EWR,"Newark Liberty Intl",DFW,"Dallas Fort Worth Intl",56
+MQ,"Envoy Air",2013-01-02,JFK,"John F Kennedy Intl",RDU,"Raleigh Durham Intl",-4
+UA,"United Air Lines Inc.",2013-01-02,EWR,"Newark Liberty Intl",PDX,"Portland Intl",-31
+AA,"American Airlines Inc.",2013-01-02,JFK,"John F Kennedy Intl",STT,NULL,-15
+DL,"Delta Air Lines Inc.",2013-01-02,JFK,"John F Kennedy Intl",FLL,"Fort Lauderdale Hollywood Intl",4
+DL,"Delta Air Lines Inc.",2013-01-02,JFK,"John F Kennedy Intl",ATL,"Hartsfield Jackson Atlanta Intl",4
+US,"US Airways Inc.",2013-01-02,EWR,"Newark Liberty Intl",CLT,"Charlotte Douglas Intl",4
+B6,"JetBlue Airways",2013-01-02,JFK,"John F Kennedy Intl",PIT,"Pittsburgh Intl",2
