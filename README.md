@@ -16,3 +16,6 @@ Project for analysis of Flights delays with SQL and Pandas
 
 # Week5 
 Assignment for the airports and weather data tidying.
+
+#Week 6
+Project 2: Tidy CSV files (preprocess) for analysis. I used the files from the following github: https://github.com/kwstat/untidydata2/blob/main/inst/messydata/combined_sales.xlsx 
