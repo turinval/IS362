@@ -13,3 +13,6 @@ Summarize the bike ride from NY to Florida, by miles per day, using Numpy and Pa
 
 # Week 4
 Project for analysis of Flights delays with SQL and Pandas
+
+# Week5 
+Assignment for the airports and weather data tidying.
