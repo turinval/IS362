@@ -21,4 +21,14 @@ Assignment for the airports and weather data tidying.
 Project 2: Tidy CSV files (preprocess) for analysis. I used the files from the following github: https://github.com/kwstat/untidydata2/blob/main/inst/messydata/combined_sales.xlsx 
 
 # Week 7
-Conduct analysis of a survey conducted for 6 movies from 2024. COmpare standardized and normalized statistics for this information.
+Conduct analysis of a survey conducted for 6 movies from 2024. Compare standardized and normalized statistics for this information.
+
+# Week 8 
+Your task in this week’s assignment is to load a 
+dataset, perform some minor cleanup and 
+transformation tasks, then use exploratory data 
+analysis to learn about the distribution of variables 
+and the relationship between variables.
+Here is a link to the “Auto MPG” dataset in the 
+UC Irvine data repository: 
+https://archive.ics.uci.edu/ml/datasets/Auto+MPG
