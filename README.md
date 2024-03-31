@@ -32,3 +32,7 @@ and the relationship between variables.
 Here is a link to the “Auto MPG” dataset in the 
 UC Irvine data repository: 
 https://archive.ics.uci.edu/ml/datasets/Auto+MPG
+
+# Week 9
+
+Project 3. Working with SQLite connect to Jupyter Notebook with SQLalchemy to use the Chinook database. 
