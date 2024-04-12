@@ -36,3 +36,11 @@ https://archive.ics.uci.edu/ml/datasets/Auto+MPG
 # Week 9
 
 Project 3. Working with SQLite connect to Jupyter Notebook with SQLalchemy to use the Chinook database. 
+
+
+# Week 10
+
+
+# Week 11
+
+NYTimes API for Books called in Jupyter notebook and transformed in Python Data Frame.
