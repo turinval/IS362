@@ -44,3 +44,6 @@ Project 3. Working with SQLite connect to Jupyter Notebook with SQLalchemy to us
 # Week 11
 
 NYTimes API for Books called in Jupyter notebook and transformed in Python Data Frame.
+
+# Week 13 Discussion board
+Recommendation for a table of movies.
